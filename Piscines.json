@@ -1,0 +1,372 @@
+[
+  {
+    "id" : "2916",
+    "title" : "Piscine Suzanne Berlioux (Les Halles)",
+    "street" : "forum des Halles",
+    "coordinates" : [
+      2.34585590000006,
+      48.8623474
+	],
+    "zipcode" : "75001"
+  },
+  {
+    "id" : "2918",
+    "title" : "Piscine Pontoise",
+    "street" : "19, rue de Pontoise",
+    "coordinates" : [
+      2.35158160000003,
+      48.849236
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "id" : "2930",
+    "title" : "Piscine Joséphine-Baker",
+    "street" : "quai François Mauriac",
+    "coordinates" : [
+      2.3773645,
+      48.8341088
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "id" : "2936",
+    "title" : "Piscine Keller",
+    "street" : "14, rue de l'Ingénieur Robert-Keller",
+    "coordinates" : [
+      2.28272489999995,
+      48.8477033
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "id" : "2941",
+    "title" : "Piscine Champerret",
+    "street" : "36, boulevard de Reims ",
+    "coordinates" : [
+      2.295667,
+      48.888275
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "id" : "2948",
+    "title" : "Piscine Georges Hermant",
+    "street" : "6, rue David d'Angers",
+    "coordinates" : [
+      2.38897309999993,
+      48.8829081
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "id" : "2949",
+    "title" : "Piscine Georges Vallerey",
+    "street" : "148, avenue Gambetta ",
+    "coordinates" : [
+      2.405829,
+      48.875381
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "id" : "2950",
+    "title" : "Piscine Roger Le Gall",
+    "street" : "34, boulevard Carnot ",
+    "coordinates" : [
+      2.413147,
+      48.842007
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "id" : "2",
+    "title" : "Piscine Saint-Merri",
+    "street" : "16 rue du renard",
+    "coordinates" : [
+      2.352479,
+      48.859406
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "id" : "2919",
+    "title" : "Piscine Saint-Germain",
+    "street" : "12, rue Lobineau ",
+    "coordinates" : [
+      2.335931,
+      48.851669
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "id" : "2920",
+    "title" : "Piscine Georges Drigny",
+    "street" : "18, rue Bochart de Saron ",
+    "coordinates" : [
+      2.342184,
+      48.881893
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "id" : "2921",
+    "title" : "Piscine Paul Valeyre",
+    "street" : "24, rue de Rochechouart",
+    "coordinates" : [
+      2.34494889999996,
+      48.8781484
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "id" : "2923",
+    "title" : "Piscine Château-Landon",
+    "street" : "31, rue du château-Landon ",
+    "coordinates" : [
+      2.363909,
+      48.883221
+    ],
+    "zipcode" : "75010"
+  },
+  {
+    "id" : "2924",
+    "title" : "Piscine Georges Rigal",
+    "street" : "115, boulevard de Charonne ",
+    "coordinates" : [
+      2.394056,
+      48.856609
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "id" : "2925",
+    "title" : "Piscine de la Cour des Lions",
+    "street" : "9, rue Alphonse Baudin ",
+    "coordinates" : [
+      2.370507,
+      48.860626
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "id" : "2926",
+    "title" : "Piscine Reuilly",
+    "street" : "13, rue Hénard ",
+    "coordinates" : [
+      2.389423,
+      48.841927
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "id" : "2927",
+    "title" : "Piscine de la Butte aux Cailles",
+    "street" : "5, place Paul Verlaine ",
+    "coordinates" : [
+      2.352194,
+      48.827431
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "id" : "2928",
+    "title" : "Piscine Château des Rentiers",
+    "street" : "184, rue du Château des Rentiers ",
+    "coordinates" : [
+      2.3619,
+      48.830406
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "id" : "2929",
+    "title" : "Piscine Dunois",
+    "street" : "70, rue Dunois ",
+    "coordinates" : [
+      2.366437,
+      48.832973
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "id" : "2931",
+    "title" : "Piscine Aspirant Dunand",
+    "street" : "20, rue Saillard ",
+    "coordinates" : [
+      2.326708,
+      48.831699
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "id" : "2932",
+    "title" : "Piscine Didot",
+    "street" : "22, avenue Georges Lafenestre ",
+    "coordinates" : [
+      2.309616,
+      48.824276
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "id" : "2933",
+    "title" : "Piscine Armand Massard",
+    "street" : "66 boulevard du Montparnasse ",
+    "coordinates" : [
+      2.323341,
+      48.844036
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "id" : "2934",
+    "title" : "Piscine Blomet",
+    "street" : "17, rue Blomet ",
+    "coordinates" : [
+      2.307422,
+      48.843323
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "id" : "2935",
+    "title" : "Piscine Emile Anthoine",
+    "street" : "9, rue Jean Rey ",
+    "coordinates" : [
+      2.290917,
+      48.855381
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "id" : "2937",
+    "title" : "Piscine La Plaine",
+    "street" : "13, rue du Général Guillaumat ",
+    "coordinates" : [
+      2.292976,
+      48.827991
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "id" : "2938",
+    "title" : "Piscine René et André Mourlon",
+    "street" : "19, rue Gaston de Caillavet ",
+    "coordinates" : [
+      2.35902980000003,
+      48.8180694
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "id" : "2939",
+    "title" : "Piscine Henry de Montherlant",
+    "street" : "30, boulevard Lannes ",
+    "coordinates" : [
+      2.284898,
+      48.848824
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "id" : "2940",
+    "title" : "Piscine Bernard Lafay",
+    "street" : "79, rue de la Jonquière ",
+    "coordinates" : [
+      2.318883,
+      48.894707
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "id" : "2942",
+    "title" : "Piscine Bertrand Dauvin",
+    "street" : "12, rue René Binet ",
+    "coordinates" : [
+      2.342513,
+      48.899296
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "id" : "2943",
+    "title" : "Piscine Hébert",
+    "street" : "2, rue des Fillettes ",
+    "coordinates" : [
+      2.363163,
+      48.893993
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "id" : "2944",
+    "title" : "Piscine des Amiraux",
+    "street" : "6, rue Hermann Lachapelle ",
+    "coordinates" : [
+      2.350622,
+      48.894421
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "id" : "2946",
+    "title" : "Piscine Mathis",
+    "street" : "15, rue Mathis ",
+    "coordinates" : [
+      2.375107,
+      48.890816
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "id" : "2947",
+    "title" : "Piscine Rouvet",
+    "street" : "1, rue Rouvet ",
+    "coordinates" : [
+      2.385029,
+      48.893188
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "id" : "3324",
+    "title" : "Piscine d'Auteuil",
+    "street" : "Route des Lacs à Passy",
+    "coordinates" : [
+      2.26057702327876,
+      48.8571833169953
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "id" : "3325",
+    "title" : "Piscine Jean Taris",
+    "street" : "16, rue Thouin ",
+    "coordinates" : [
+      2.347786,
+      48.84462
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "id" : "4012",
+    "title" : "Piscine Alfred Nakache",
+    "street" : "4-12, rue Dénoyez ",
+    "coordinates" : [
+      2.378612,
+      48.871498
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "id" : "5041",
+    "title" : "Piscine Catherine Lagatu ex Parmentier",
+    "street" : "155 avenue Parmentier",
+    "coordinates" : [
+      2.369786,
+      48.871693
+    ],
+    "zipcode" : "75010"
+  }
+]

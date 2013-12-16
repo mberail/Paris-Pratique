@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  ParisPratique
+
+  Created by Maxime Berail on 07/12/13.
+  Copyright (c) 2013 Maxime Berail. All rights reserved.
+*/
+
+"Auto-écoles" = "Auto-écoles";
+"Autolib" = "Autolib";
+"Bibliothèques" = "Bibliothèques";
+"La Poste" = "La Poste";
+"Marchés" = "Marchés";
+"Musées" = "Musées";
+"Parcs" = "Parcs";
+"Piscines" = "Piscines";
+"Taxis" = "Taxis";
+"Tennis" = "Tennis";
+"Velib" = "Velib";
+"Wi-fi" = "Wi-fi";

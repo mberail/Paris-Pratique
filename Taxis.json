@@ -1,0 +1,1040 @@
+[
+{
+"title":"Châtelet",
+"snippet":"1 place du ChâteletFace 12 avenue VictoriaTél 01 42 33 20 99",
+"street":"1 place du Châtelet",
+"indication":"Face 12 avenue Victoria",
+"phone":"01 42 33 20 99",
+"id":"46",
+"coordinates":["2.347135","48.857880"]
+},
+{
+"title":"Palais Royal",
+"snippet":"1 place André MalrauxFace 161 rue Saint HonoréTél 01 42 60 61 40",
+"street":"1 place André Malraux",
+"indication":"Face 161 rue Saint Honoré",
+"phone":"01 42 60 61 40",
+"id":"111",
+"coordinates":["2.334602","48.863789"]
+},
+{
+"title":"Concorde - Rivoli",
+"snippet":"252 rue de RivoliTél 01 42 61 67 60",
+"street":"252 rue de Rivoli",
+"phone":"01 42 61 67 60",
+"id":"4",
+"coordinates":["2.324362","48.866455"]
+},
+{
+"title":"Place Vendôme",
+"snippet":"23 place VendômeCôté rue de la PaixTél 01 47 03 02 92",
+"street":"23 place Vendôme",
+"indication":"Côté rue de la Paix",
+"phone":"01 47 03 02 92",
+"id":"101",
+"coordinates":["2.329810","48.867882"]
+},
+{
+"title":"Opéra",
+"snippet":"2 place de l‘OpéraAngle boulevard des CapucinesTél 01 47 42 75 75",
+"street":"2 place de l‘Opéra",
+"indication":"Angle boulevard des Capucines",
+"phone":"01 47 42 75 75",
+"id":"89",
+"coordinates":["2.332632","48.869987"]
+},
+{
+"title":"Strasbourg Saint Denis",
+"snippet":"19 boulevard Saint DenisAngle porte Saint DenisTél 01 42 36 93 55",
+"street":"19 boulevard Saint Denis",
+"indication":"Angle porte Saint Denis",
+"phone":"01 42 36 93 55",
+"id":"93",
+"coordinates":["2.352927","48.869484"]
+},
+{
+"title":"Beaubourg",
+"snippet":"24 rue BeaubourgAngle impasse BerthaudTél 01 42 72 00 00",
+"street":"24 rue Beaubourg",
+"indication":"Angle impasse Berthaud",
+"phone":"01 42 72 00 00",
+"id":"82",
+"coordinates":["2.353640","48.861458"]
+},
+{
+"title":"Saint Paul",
+"snippet":"10 rue de Rivoli Angle rue Saint AntoineTél 01 48 87 49 39",
+"street":"10 rue de Rivoli ",
+"indication":"Angle rue Saint Antoine",
+"id":"66",
+"coordinates":["2.360434","48.855453"]
+},
+{
+"title":"Place Saint Michel",
+"snippet":"29 quai Saint Michel Tél 01 43 29 63 66",
+"street":"29 quai Saint Michel ",
+"phone":"01 43 29 63 66",
+"id":"51",
+"coordinates":["2.344872","48.853558"]
+},
+{
+"title":"Gobelins",
+"snippet":"92 boulevard Saint MarcelAngle avenue des GobelinsTél 01 43 31 00 00",
+"street":"92 boulevard Saint Marcel",
+"indication":"Angle avenue des Gobelins",
+"phone":"01 43 31 00 00",
+"id":"77",
+"coordinates":["2.352215","48.837097"]
+},
+{
+"title":"Maubert Mutualité",
+"snippet":"60 boulevard Saint GermainAngle rue LagrangeTél 01 46 34 10 32",
+"street":"60 boulevard Saint Germain",
+"indication":"Angle rue Lagrange",
+"phone":"01 46 34 10 32",
+"id":"55",
+"coordinates":["2.348251","48.850227"]
+},
+{
+"title":"Panthéon",
+"snippet":"26 rue SoufflotAngle boulevard Saint MichelTél 01 46 33 00 00",
+"street":"26 rue Soufflot",
+"indication":"Angle boulevard Saint Michel",
+"phone":"01 46 33 00 00",
+"id":"42",
+"coordinates":["2.341386","48.847366"]
+},
+{
+"title":"Place Monge",
+"snippet":"75 bis rue MongeTél 01 45 87 15 95",
+"street":"75 bis rue Monge",
+"phone":"01 45 87 15 95",
+"id":"91",
+"coordinates":["2.352268","48.843246"]
+},
+{
+"title":"Tournelle",
+"snippet":"15 quai de la Tournelle Tél 01 43 25 92 99",
+"street":"15 quai de la Tournelle ",
+"phone":"01 43 25 92 99",
+"id":"60",
+"coordinates":["2.355111","48.849915"]
+},
+{
+"title":"Saint Germain des Prés",
+"snippet":"151 boulevard Saint GermainBrasserie LippTél 01 42 22 00 00",
+"street":"151 boulevard Saint Germain",
+"indication":"Brasserie Lipp",
+"phone":"01 42 22 00 00",
+"id":"88",
+"coordinates":["2.332387","48.853794"]
+},
+{
+"title":"Mabillon",
+"snippet":"2 rue du FourTél 01 43 29 00 00",
+"street":"2 rue du Four",
+"phone":"01 43 29 00 00",
+"id":"20",
+"coordinates":["2.335822","48.853188"]
+},
+{
+"title":"Port Royal - Observatoire:",
+"snippet":"20 avenue de l‘ObservatoireAngle boulevard du MontparnasseTél 01 43 54 74 37",
+"street":"20 avenue de l‘Observatoire",
+"indication":"Angle boulevard du Montparnasse",
+"phone":"01 43 54 74 37",
+"id":"37",
+"coordinates":["2.336512","48.839718"]
+},
+{
+"title":"Rennes - Montparnasse",
+"snippet":"1 place du 18 Juin 1940 Angle boulevard du Montparnasse, au pied de la Tour Mont",
+"street":"1 place du 18 Juin 1940 ",
+"indication":"Angle boulevard du Montparnasse au pied de la Tour Montparnasse ",
+"phone":"01 42 22 13 13",
+"id":"48",
+"coordinates":["2.317239","48.846703"]
+},
+{
+"title":"Sèvres Babylone",
+"snippet":"1 place Alphonse DevilleAngle boulevard RaspailTél 01 45 48 84 75",
+"street":"1 place Alphonse Deville",
+"indication":"Angle boulevard Raspail",
+"phone":"01 45 48 84 75",
+"id":"103",
+"coordinates":["2.327476","48.850483"]
+},
+{
+"title":"Tour Eiffel",
+"snippet":"69 quai BranlyAu pied de la Tour EiffelTél 01 45 55 85 41",
+"street":"69 quai Branly",
+"indication":"Au pied de la Tour Eiffel",
+"phone":"01 45 55 85 41",
+"id":"56",
+"coordinates":["2.291428","48.857643"]
+},
+{
+"title":"Alma - Branly",
+"snippet":"2 avenue BosquetAngle place de la RésistanceTél 01 47 05 66 86",
+"street":"2 avenue Bosquet",
+"indication":"Angle place de la Résistance",
+"phone":"01 47 05 66 86",
+"id":"68",
+"coordinates":["2.302004","48.861946"]
+},
+{
+"title":"Bac - Saint Germain",
+"snippet":"50 rue du Bac Angle boulevard Saint GermainTél 01 42 22 49 64",
+"street":"50 rue du Bac ",
+"indication":"Angle boulevard Saint Germain",
+"phone":"01 42 22 49 64",
+"id":"118",
+"coordinates":["2.326171","48.856323"]
+},
+{
+"title":"Ecole Militaire",
+"snippet":"28 avenue de TourvilleAngle place de l‘Ecole MilitaireTél 01 47 05 00 00",
+"street":"28 avenue de Tourville",
+"indication":"Angle place de l‘Ecole Militaire",
+"phone":"01 47 05 00 00",
+"id":"85",
+"coordinates":["2.306332","48.854145"]
+},
+{
+"title":"Gare des Invalides",
+"snippet":"4 rue Robert Esnault PelterieA coté de l‘Aérorare de bus des Invalides Tél 01",
+"street":"4 rue Robert Esnault Pelterie",
+"indication":"A coté de l‘Aérorare de bus des Invalides ",
+"phone":"01 45 55 17 61",
+"id":"122",
+"coordinates":["2.315088","48.862007"]
+},
+{
+"title":"La Tour Maubourg - Invalides",
+"snippet":"1 place Salvador AllendeTél 01 45 55 78 42",
+"street":"1 place Salvador Allende",
+"phone":"01 45 55 78 42",
+"id":"28",
+"coordinates":["2.303208","48.821514"]
+},
+{
+"title":"Place Vauban",
+"snippet":"2 avenue de TourvilleAngle place VaubanTél 01 47 53 03 41",
+"street":"2 avenue de Tourville",
+"indication":"Angle place Vauban",
+"phone":"01 47 53 03 41",
+"id":"15",
+"coordinates":["2.309563","48.854038"]
+},
+{
+"title":"Place de l‘ Alma",
+"snippet":"1 avenue Georges VAngle place de l‘ Alma Tél 01 40 70 96 04",
+"street":"1 avenue Georges V",
+"indication":"Angle place de l‘ Alma ",
+"phone":"01 40 70 96 04",
+"id":"9",
+"coordinates":["2.301332","48.865208"]
+},
+{
+"title":"Rd Pt des Champs Elysées",
+"snippet":"3 avenue MatignonAngle rond point des Champs ElyséesTél 01 42 56 29 00",
+"street":"3 avenue Matignon",
+"indication":"Angle rond point des Champs Elysées",
+"phone":"01 42 56 29 00",
+"id":"117",
+"coordinates":["2.311167","48.869553"]
+},
+{
+"title":"Rd Pt des Champs Elysées",
+"snippet":"3 avenue MatignonAngle rond point des Champs ElyséesTél 01 42 56 29 00",
+"street":"3 avenue Matignon",
+"indication":"Angle rond point des Champs Elysées",
+"phone":"01 42 56 29 00",
+"id":"80",
+"coordinates":["2.323136","48.870445"]
+},
+{
+"title":"Place des Ternes",
+"snippet":"272 rue du faubourg Saint HonoréTél 01 47 63 00 00",
+"street":"272 rue du faubourg Saint Honoré",
+"phone":"01 47 63 00 00",
+"id":"95",
+"coordinates":["2.298895","48.877743"]
+},
+{
+"title":"Place Rio de Janeiro",
+"snippet":"34 avenue de MessineAngle place Rio de JaneiroTél 01 45 62 00 00",
+"street":"34 avenue de Messine",
+"indication":"Angle place Rio de Janeiro",
+"phone":"Tel01 45 62 00 00",
+"id":"38",
+"coordinates":["2.311103","48.877434"]
+},
+{
+"title":"Saint Augustin",
+"snippet":"44 boulevard MalesherbesAngle place Saint AugustinTél 01 47 42 54 73",
+"street":"44 boulevard Malesherbes",
+"indication":"Angle place Saint Augustin",
+"phone":"01 47 42 54 73",
+"id":"33",
+"coordinates":["2.320031","48.874664"]
+},
+{
+"title":"Place de Clichy",
+"snippet":"95 rue de ClichyAngle place de ClichyTél 01 42 85 00 00",
+"street":"95 rue de Clichy",
+"indication":"Angle place de Clichy",
+"phone":" 01 42 85 00 00",
+"id":"104",
+"coordinates":["2.327470","48.883362"]
+},
+{
+"title":"Trinité - d‘Estienne d‘Orves",
+"snippet":"2 place d‘Estienne d‘OrvesTél 01 48 74 00 00",
+"street":"2 place d‘Estienne d‘Orves",
+"phone":"01 48 74 00 00",
+"id":"112",
+"coordinates":["2.332516","48.876350"]
+},
+{
+"title":"Notre Dame de Lorette",
+"snippet":"1 rue Flechier Tél 01 42 81 12 24",
+"street":"1 rue Flechier ",
+"phone":"01 42 81 12 24",
+"id":"50",
+"coordinates":["2.339336","48.876690"]
+},
+{
+"title":"Hôpital Saint Louis",
+"snippet":"1 avenue Claude VelfauxHôpital St LouisTél 01 42 02 83 87",
+"street":"1 avenue Claude Velfaux",
+"indication":"Hôpital St Louis",
+"phone":"01 42 02 83 87",
+"id":"1",
+"coordinates":["2.369785","48.873493"]
+},
+{
+"title":"Place Franz Liszt",
+"snippet":"5 place Franz LisztTél 01 53 34 86 21",
+"street":"5 place Franz Liszt",
+"phone":"01 53 34 86 21",
+"id":"16",
+"coordinates":["2.351266","48.877815"]
+},
+{
+"title":"Nation",
+"snippet":"3 avenue du TrôneAngle place de la NationTél 01 43 73 29 58",
+"street":"3 avenue du Trône",
+"indication":"Angle place de la Nation",
+"phone":"01 43 73 29 58",
+"id":"115",
+"coordinates":["2.397935","48.848606"]
+},
+{
+"title":"République",
+"snippet":"10 place de la RépubliqueTél 01 43 55 92 64",
+"street":"10 place de la République",
+"phone":"01 43 55 92 64",
+"id":"35",
+"coordinates":["2.364905","48.867352"]
+},
+{
+"title":"Hôpital Saint Antoine",
+"snippet":"35 rue Faidherbe Tél 01 43 72 00 00",
+"street":"35 rue Faidherbe ",
+"phone":"01 43 72 00 00",
+"id":"94",
+"coordinates":["2.382668","48.853176"]
+},
+{
+"title":"Mairie 11ème- Léon Blum",
+"snippet":"12 place Léon BlumAvenue ParmentierTél 01 43 79 00 00",
+"street":"12 place Léon Blum",
+"indication":"Avenue Parmentier",
+"phone":"01 43 79 00 00",
+"id":"39",
+"coordinates":["2.379960","48.858398"]
+},
+{
+"title":"Philippe Auguste",
+"snippet":"97 avenue Philippe AugusteAngle rue de CharonneTél 01 40 09 97 25",
+"street":"97 avenue Philippe Auguste",
+"indication":"Angle rue de Charonne",
+"phone":"01 40 09 97 25",
+"id":"72",
+"coordinates":["2.391289","48.855793"]
+},
+{
+"title":"Saint Ambroise",
+"snippet":"55 boulevard Voltaire Angle rue Saint SébastienTél 01 53 36 79 26",
+"street":"55 boulevard Voltaire",
+"indication":"Angle rue Saint Sébastien",
+"phone":"01 53 36 79 26",
+"id":"105",
+"coordinates":["2.373076","48.862007"]
+},
+{
+"title":"Daumesnil - Félix Eboué",
+"snippet":"3 place Felix EbouéTél 01 43 43 00 00",
+"street":"3 place Felix Eboué",
+"phone":"01 43 43 00 00",
+"id":"5",
+"coordinates":["2.395628","48.839828"]
+},
+{
+"title":"Bercy - Palais Omnisport",
+"snippet":"1 quai de BercyAngle boulevard de Bercy, au pied du palais omnisportTél 01 49 2",
+"street":"1 quai de Bercy",
+"indication":"Angle boulevard de Bercy, au pied du palais omnisport",
+"phone":"01 49 28 96 03",
+"id":"63",
+"coordinates":["2.379697","48.840435"]
+},
+{
+"title":"Château de Vincennes",
+"snippet":"7 avenue de NogentFace à la gare routière de busTél 01 48 08 00 00",
+"street":"7 avenue de Nogent",
+"indication":"Face à la gare routière de bus",
+"phone":"01 48 08 00 00",
+"id":"100",
+"coordinates":["2.440359","48.844589"]
+},
+{
+"title":"Cour Saint Emilion",
+"snippet":"12 rue des Pirogues de BercyAngle rue de LibourneTél 01 44 75 09 16",
+"street":"12 rue des Pirogues de Bercy",
+"indication":"Angle rue de Libourne",
+"phone":"01 44 75 09 16",
+"id":"30",
+"coordinates":["2.386153","48.832169"]
+},
+{
+"title":"Mairie du 12ème",
+"snippet":"130 avenue DaumesnilTél 01 40 19 92 54",
+"street":"130 avenue Daumesnil",
+"phone":"01 40 19 92 54",
+"id":"108",
+"coordinates":["2.388840","48.841137"]
+},
+{
+"title":"Porte Dorée",
+"snippet":"1 place Edouard RenardTél 01 46 28 00 00",
+"street":"1 place Edouard Renard",
+"phone":"01 46 28 00 00",
+"id":"69",
+"coordinates":["2.408208","48.835121"]
+},
+{
+"title":"Porte de Vincennes",
+"snippet":"86 boulevard SoultTél 01 43 48 40 26",
+"street":"86 boulevard Soult",
+"phone":"01 43 48 40 26",
+"id":"17",
+"coordinates":["2.411205","48.846588"]
+},
+{
+"title":"Place d‘Italie",
+"snippet":"213 boulevard Vincent AuriolAngle place d‘ItalieTél 01 45 83 34 93",
+"street":"213 boulevard Vincent Auriol",
+"indication":"Angle place d‘Italie",
+"phone":"01 45 83 34 93",
+"id":"61",
+"coordinates":["2.356742","48.830757"]
+},
+{
+"title":"Abbé Georges Hénocque",
+"snippet":"8 place de l‘Abbé Georges HénocqueTél 01 45 81 14 76",
+"street":"8 place de l‘Abbé Georges Hénocque",
+"phone":"01 45 81 14 76",
+"id":"13",
+"coordinates":["2.353016","48.823826"]
+},
+{
+"title":"Glacière",
+"snippet":"125 boulevard Auguste Blanqui Tél 01 45 80 00 00",
+"street":"125 boulevard Auguste Blanqui ",
+"phone":"01 45 80 00 00",
+"id":"6",
+"coordinates":["2.343968","48.830845"]
+},
+{
+"title":"Patay - Tolbiac",
+"snippet":"119 rue de PatayAngle rue de TolbiacTél 01 45 83 00 00",
+"street":"119 rue de Patay",
+"indication":"Angle rue de Tolbiac",
+"phone":"01 45 83 00 00",
+"id":"123",
+"coordinates":["2.370719","48.828079"]
+},
+{
+"title":"Porte d‘Italie",
+"snippet":"166 boulevard MassénaTél 01 45 86 00 44",
+"street":"166 boulevard Masséna",
+"phone":"01 45 86 00 44",
+"id":"99",
+"coordinates":["2.359584","48.819172"]
+},
+{
+"title":"Porte de Choisy",
+"snippet":"36 avenue de la Porte de ChoisyAngle boulevard MassenaTél 01 45 85 40 00",
+"street":"36 avenue de la Porte de Choisy",
+"indication":"Angle boulevard Massena",
+"phone":" :01 45 85 40 00",
+"id":"96",
+"coordinates":["2.364884","48.819820"]
+},
+{
+"title":"Denfert Rochereau",
+"snippet":"2 place Denfert Rochereau Face 297 boulevard Raspail, square LamarkTél 01 43 35",
+"street":"2 place Denfert Rochereau ",
+"indication":"Face 297 boulevard Raspail, square Lamark",
+"phone":"01 43 35 00 00",
+"id":"92",
+"coordinates":["2.331825","48.834957"]
+},
+{
+"title":"Porte d‘Orléans",
+"snippet":"1 place du 25 Août 1944Tél 01 45 40 52 05",
+"street":"1 place du 25 Août 1944",
+"phone":"01 45 40 52 05",
+"id":"2",
+"coordinates":["2.325902","48.822758"]
+},
+{
+"title":"Place Coluche Amiral Mouchez",
+"snippet":"1 rue de l‘Amiral MouchezAngle place ColucheTél 01 45 89 05 71",
+"street":"1 rue de l‘Amiral Mouchez",
+"indication":"Angle place Coluche",
+"phone":"01 45 89 05 71",
+"id":"70",
+"coordinates":["2.341783","48.826080"]
+},
+{
+"title":"Plaisance",
+"snippet":"126 rue Raymond LosserandAngle rue d‘AlésiaTél 01 45 41 66 00",
+"street":"126 rue Raymond Losserand",
+"indication":"Angle rue d‘Alésia",
+"phone":"01 45 41 66 00",
+"id":"24",
+"coordinates":["2.312849","48.831219"]
+},
+{
+"title":"Porte de Vanves",
+"snippet":"214 rue Raymond LosserandTél 01 45 39 87 33",
+"street":"214 rue Raymond Losserand",
+"phone":"01 45 39 87 33",
+"id":"90",
+"coordinates":["2.306276","48.828163"]
+},
+{
+"title":"Place Charles Michels",
+"snippet":"48 rue Linois Angle place Charles MichelsTél 01 45 78 20 00",
+"street":"48 rue Linois ",
+"indication":"Angle place Charles Michels",
+"phone":"01 45 78 20 00",
+"id":"86",
+"coordinates":["2.285116","48.846912"]
+},
+{
+"title":"Porte de Versailles",
+"snippet":"378 rue de Vaugirard Tél 01 48 28 00 00",
+"street":"378 rue de Vaugirard ",
+"phone":"01 48 28 00 00",
+"id":"41",
+"coordinates":["2.288816","48.833298"]
+},
+{
+"title":"Convention - Vaugirard",
+"snippet":"304 rue de VaugirardAngle rue Ferdinand FabreTél 01 42 50 00 00",
+"street":"304 rue de Vaugirard",
+"indication":"Angle rue Ferdinand Fabre",
+"phone":"01 42 50 00 00",
+"id":"7",
+"coordinates":["2.297736","48.837963"]
+},
+{
+"title":"Félix Faure - Boucicault",
+"snippet":"44 avenue Félix FaureTél 01 40 60 08 37",
+"street":"44 avenue Félix Faure",
+"phone":"01 40 60 08 37",
+"id":"8",
+"coordinates":["2.288048","48.841263"]
+},
+{
+"title":"Hôpital Georges Pompidou",
+"snippet":"32 rue Leblanc Hôpital Georges PompidouTél 01 45 57 80 73",
+"street":"32 rue Leblanc Hôpital Georges Pompidou",
+"phone":"01 45 57 80 73",
+"id":"57",
+"coordinates":["2.274638","48.839371"]
+},
+{
+"title":"La Motte Piquet Grenelle",
+"snippet":"66 avenue de la Motte PiquetAngle rue de PondicheryTél 01 45 66 00 00",
+"street":"66 avenue de la Motte Piquet",
+"indication":"Angle rue de Pondichery",
+"phone":"01 45 66 00 00",
+"id":"12",
+"coordinates":["2.298563","48.849545"]
+},
+{
+"title":"Mairie du 15ème",
+"snippet":"252 rue de VaugirardAngle rue du Général BeuretTél 01 48 42 00 00",
+"street":"252 rue de Vaugirard",
+"indication":"Angle rue du Général Beuret",
+"phone":"01 48 42 00 00",
+"id":"18",
+"coordinates":["2.302003","48.839832"]
+},
+{
+"title":"Place Balard",
+"snippet":"3 place BalardAngle avenue Félix FaureTél 01 45 54 01 89",
+"street":"3 place Balard",
+"indication":"Angle avenue Félix Faure",
+"phone":"01 45 54 01 89",
+"id":"120",
+"coordinates":["2.278651","48.836685"]
+},
+{
+"title":"Sèvres Lecourbe",
+"snippet":"1 place Henri QueilleAngle boulevard PasteurTél 01 47 34 00 00",
+"street":"1 place Henri Sevres",
+"indication":"boulevard Pasteur",
+"phone":"01 47 34 00 00",
+"id":"40",
+"coordinates":["2.311842","48.845364"]
+},
+{
+"title":"La Muette",
+"snippet":"11 chaussée de la Muette Angle avenue MozartTél 01 42 88 00 00",
+"street":"11 chaussée de la Muette ",
+"indication":"Angle avenue Mozart",
+"phone":"01 42 88 00 00",
+"id":"31",
+"coordinates":["2.273670","48.858028"]
+},
+{
+"title":"Porte de Saint Cloud",
+"snippet":"5 place de la Porte de Saint CloudAngle boulevard MuratTél 01 46 51 60 40",
+"street":"5 place de la Porte de Saint Cloud",
+"indication":"Angle boulevard Murat",
+"phone":"01 46 51 60 40",
+"id":"36",
+"coordinates":["2.251759","48.838608"]
+},
+{
+"title":"Henri Martin",
+"snippet":"78 avenue Henri MartinTél 01 45 04 00 00",
+"street":"78 avenue Henri Martin",
+"phone":"01 45 04 00 00",
+"id":"10",
+"coordinates":["2.272886","48.864613"]
+},
+{
+"title":"Maison de la Radio",
+"snippet":"1 avenue de VersaillesAu pied de Radio FranceTél 01 45 24 56 17",
+"street":"1 avenue de Versailles",
+"indication":"Au pied de Radio France",
+"phone":"01 45 24 56 17",
+"id":"21",
+"coordinates":["2.278513","48.851166"]
+},
+{
+"title":"Mozart - Jasmin",
+"snippet":"80 avenue MozartAngle rue de l‘YvetteTél 01 45 25 13 13",
+"street":"80 avenue Mozart",
+"indication":"Angle rue de l‘Yvette",
+"phone":"01 45 25 13 13",
+"id":"22",
+"coordinates":["2.267818","48.852177"]
+},
+{
+"title":"Place de Barcelone",
+"snippet":"3 rue MirabeauAngle place de BarceloneTél 01 45 27 11 11",
+"street":"3 rue Mirabeau",
+"indication":"Angle place de Barcelone",
+"phone":"01 45 27 11 11",
+"id":"62",
+"coordinates":["2.273098","48.847218"]
+},
+{
+"title":"Place Victor Hugo",
+"snippet":"12 place Victor HugoAngle avenue Victor HugoTél 01 45 53 00 11",
+"street":"12 place Victor Hugo",
+"indication":"Angle avenue Victor Hugo",
+"phone":"01 45 53 00 11",
+"id":"11",
+"coordinates":["2.285070","48.869572"]
+},
+{
+"title":"Porte d‘Auteuil",
+"snippet":"144 boulevard ExelmansAngle avenue d‘AuteuilTél 01 46 51 14 61",
+"street":"144 boulevard Exelmans",
+"indication":"Angle avenue d‘Auteuil",
+"phone":"01 46 51 14 61",
+"id":"49",
+"coordinates":["2.259716","48.847889"]
+},
+{
+"title":"Passy - Costa Rica",
+"snippet":"10 boulevard DelessertAngle rue Benjamin FranklinTél 01 45 20 00 00",
+"street":"10 boulevard Delessert",
+"indication":"Angle rue Benjamin Franklin",
+"phone":"01 45 20 00 00",
+"id":"116",
+"coordinates":["2.285113","48.858746"]
+},
+{
+"title":"Trocadéro",
+"snippet":"1 avenue d‘EylauAngle place du TrocadéroTél 01 47 27 00 00",
+"street":"1 avenue d‘Eylau",
+"indication":"Angle place du Trocadéro",
+"phone":"01 47 27 00 00",
+"id":"114",
+"coordinates":["2.286142","48.863609"]
+},
+{
+"title":"Etoile - Wagram",
+"snippet":"1 avenue de WagramAngle place Charles de GaulleTél 01 43 80 01 99",
+"street":"1 avenue de Wagram",
+"indication":"Angle place Charles de Gaulle",
+"phone":"01 43 80 01 99",
+"id":"107",
+"coordinates":["2.296133","48.875439"]
+},
+{
+"title":"Maréchal Juin",
+"snippet":"3 place du Maréchal JuinAngle rue de CourcellesTél 01 42 27 00 00",
+"street":"3 place du Maréchal Juin",
+"indication":"Angle rue de Courcelles",
+"phone":"01 42 27 00 00",
+"id":"78",
+"coordinates":["2.297590","48.884590"]
+},
+{
+"title":"Porte Maillot",
+"snippet":"78 avenue de la Grande ArméeTél 01 45 72 61 84",
+"street":"78 avenue de la Grande Armée",
+"phone":"01 45 72 61 84",
+"id":"109",
+"coordinates":["2.284044","48.877377"]
+},
+{
+"title":"Courcelles - Chazelles",
+"snippet":"94 boulevard de CourcellesAngle rue de ChazellesTél 01 47 66 80 50",
+"street":"94 boulevard de Courcelles",
+"indication":"Angle rue de Chazelles",
+"phone":"01 47 66 80 50",
+"id":"71",
+"coordinates":["2.303135","48.879166"]
+},
+{
+"title":"Pont Cardinet",
+"snippet":"167 rue de RomeAngle rue Cardinet, gare SNCFTél 01 47 66 29 78",
+"street":"167 rue de Rome",
+"indication":"Angle rue Cardinet, gare SNCF",
+"phone":"01 47 66 29 78",
+"id":"106",
+"coordinates":["2.314152","48.887318"]
+},
+{
+"title":"Porte d‘ Asnières",
+"snippet":"100 boulevard BerthierSur passage souterrainTél 01 43 80 00 00",
+"street":"100 boulevard Berthier",
+"indication":"Sur passage souterrain",
+"phone":"01 43 80 00 00",
+"id":"83",
+"coordinates":["2.303232","48.889954"]
+},
+{
+"title":"Porte de Champerret",
+"snippet":"1 boulevard Gouvion Saint CyrAngle avenue de la porte de ChamperretTél 01 47 66",
+"street":"1 boulevard Gouvion Saint Cyr",
+"indication":"Angle avenue de la porte de Champerret",
+"phone":"01 47 66 22 77",
+"id":"54",
+"coordinates":["2.291709","48.885494"]
+},
+{
+"title":"Porte de Clichy",
+"snippet":"1 avenue porte de ClichyAngle boulevard BerthierTél 01 46 27 90 06",
+"street":"1 avenue porte de Clichy",
+"indication":"Angle boulevard Berthier",
+"phone":"01 46 27 90 06",
+"id":"47",
+"coordinates":["2.313409","48.894348"]
+},
+{
+"title":"Porte de Saint Ouen",
+"snippet":"1 avenue de la porte de Saint OuenTél 01 42 63 00 00",
+"street":"1 avenue de la porte de Saint Ouen",
+"phone":"01 42 63 00 00",
+"id":"75",
+"coordinates":["2.328955","48.898773"]
+},
+{
+"title":"Villiers - Courcelles",
+"snippet":"1 avenue de VilliersTél 01 46 22 00 00",
+"street":"1 avenue de Villiers",
+"phone":"01 46 22 00 00",
+"id":"110",
+"coordinates":["2.315131","48.881622"]
+},
+{
+"title":"Mairie du 18ème",
+"snippet":"30 rue HermelAngle place Jules Joffrin Tél 01 46 06 00 00",
+"street":"30 rue Herme",
+"indication":"lAngle place Jules Joffrin ",
+"phone":"01 46 06 00 00",
+"id":"64",
+"coordinates":["2.345142","48.892616"]
+},
+{
+"title":"Château Rouge",
+"snippet":"1 rue CustineAngle place du Château RougeTél 01 42 52 00 00",
+"street":"1 rue Custine",
+"indication":"Angle place du Château Rouge",
+"phone":"01 42 52 00 00",
+"id":"25",
+"coordinates":["2.349325","48.887329"]
+},
+{
+"title":"Guy Môquet",
+"snippet":"86 avenue de Saint OuenTél 01 42 28 00 00",
+"street":"86 avenue de Saint Ouen",
+"phone":"01 42 28 00 00",
+"id":"79",
+"coordinates":["2.327504","48.893002"]
+},
+{
+"title":"Marx Dormoy - Ordener",
+"snippet":"76 rue Marx DormoyAngle rue de RiquetTél 01 46 07 24 26",
+"street":"76 rue Marx Dormoy",
+"indication":"Angle rue de Riquet",
+"phone":"01 46 07 24 26",
+"id":"119",
+"coordinates":["2.360059","48.889942"]
+},
+{
+"title":"Place du Tertre",
+"snippet":"119 rue du Mont CenisTél 01 42 59 00 00",
+"street":"119 rue du Mont Cenis",
+"phone":"01 42 59 00 00",
+"id":"67",
+"coordinates":["2.345997","48.895618"]
+},
+{
+"title":"Porte d‘Aubervilliers",
+"snippet":"3 avenue de la porte d‘AubervilliersTél 01 40 36 08 86",
+"street":"3 avenue de la porte d‘Aubervilliers",
+"phone":"01 40 36 08 86",
+"id":"76",
+"coordinates":["2.370235","48.898914"]
+},
+{
+"title":"Porte de Clignancourt",
+"snippet":"1 avenue de la Porte de ClignancourtTél 01 42 58 00 00",
+"street":"1 avenue de la Porte de Clignancourt",
+"phone":"01 42 58 00 00",
+"id":"19",
+"coordinates":["2.344156","48.898396"]
+},
+{
+"title":"Porte de la Chapelle",
+"snippet":"188 rue de la ChapelleAngle boulevard NeyTél 01 42 09 65 52",
+"street":"188 rue de la Chapelle ",
+"indication":"Angle boulevard Ney ",
+"phone":"01 42 09 65 52",
+"id":"74",
+"coordinates":["2.359242","48.898357"]
+},
+{
+"title":"Buttes Chaumont - Botzaris",
+"snippet":"1 rue du Général Brunet Angle rue de CriméeTél 01 42 06 01 32",
+"street":"1 rue du Général Brunet ",
+"indication":"Angle rue de Crimée",
+"phone":"01 42 06 01 32",
+"id":"97",
+"coordinates":["2.389508","48.879627"]
+},
+{
+"title":"Porte des Lilas",
+"snippet":"1 avenue de la Porte des lilasAngle boulevard SerrurierTél 01 42 02 71 40",
+"street":"1 avenue de la Porte des lilas",
+"indication":"Angle boulevard Serrurier",
+"phone":"01 42 02 71 40",
+"id":"29",
+"coordinates":["2.407350","48.877365"]
+},
+{
+"title":"Flandres - Argone",
+"snippet":"154 avenue de FlandreAngle rue de l‘ArgoneTél 01 42 05 29 41",
+"street":"154 avenue de Flandre ",
+"indication":"Angle rue de l‘Argone",
+"phone":"01 42 05 29 41",
+"id":"14",
+"coordinates":["2.381771","48.894169"]
+},
+{
+"title":"Flandre - Riquet",
+"snippet":"69 rue de FlandreTél 01 40 35 28 27",
+"street":"69 rue de Flandre",
+"phone":"01 40 35 28 27",
+"id":"73",
+"coordinates":["2.373937","48.888580"]
+},
+{
+"title":"Flandre - Stalingrad",
+"snippet":"13 avenue de Flandre Tél 01 40 34 00 00",
+"street":"13 avenue de Flandre ",
+"phone":"01 40 34 00 00",
+"id":"44",
+"coordinates":["2.369492","48.884933"]
+},
+{
+"title":"Mairie du 19 ème",
+"snippet":"1 avenue LaumièreTél 01 42 01 81 20",
+"street":"1 avenue Laumière",
+"phone":"01 42 01 81 20",
+"id":"34",
+"coordinates":["2.381364","48.882664"]
+},
+{
+"title":"Place du Colonel Fabien",
+"snippet":"120 boulevard de la VilletteAngle place du Colonel FabienTél 01 42 03 41 50",
+"street":"120 boulevard de la Villette",
+"indication":"Angle place du Colonel Fabien",
+"phone":"01 42 03 41 50",
+"id":"23",
+"coordinates":["2.370770","48.877678"]
+},
+{
+"title":"Porte de Pantin",
+"snippet":"221 avenue Jean JaurèsTél 01 42 41 00 62",
+"street":"221 avenue Jean Jaurès",
+"phone":"01 42 41 00 62",
+"id":"45",
+"coordinates":["2.393655","48.889153"]
+},
+{
+"title":"Porte de la Villette",
+"snippet":"3 avenue de la porte de la VilletteTél 01 40 34 64 00",
+"street":"3 avenue de la porte de la Villette",
+"phone":"01 40 34 64 00",
+"id":"26",
+"coordinates":["2.386434","48.898560"]
+},
+{
+"title":"Mairie du 20ème - Gambetta",
+"snippet":"18 avenue du Père LachaiseAngle place GambettaTél 01 46 36 00 00",
+"street":"18 avenue du Père Lachaise",
+"indication":"Angle place Gambetta",
+"phone":"01 46 36 00 00",
+"id":"52",
+"coordinates":["2.398065","48.864441"]
+},
+{
+"title":"Belleville - Pyrénées",
+"snippet":"360 rue des PyrénéesTél 01 43 49 10 00",
+"street":"360 rue des Pyrénées",
+"phone":"01 43 49 10 00",
+"id":"43",
+"coordinates":["2.385761","48.874058"]
+},
+{
+"title":"Ménilmontant - Belleville",
+"snippet":"148 boulevard de MénilmontantAngle rue de MénilmontantTél 01 43 55 64 00",
+"street":"148 boulevard de Ménilmontant",
+"indication":"Angle rue de Ménilmontant",
+"phone":"01 43 55 64 00",
+"id":"3",
+"coordinates":["2.383687","48.866840"]
+},
+{
+"title":"Pelleport - Gambetta",
+"snippet":"2 place Paul SignacAngle avenue GambettaTél 01 40 31 70 99",
+"street":"2 place Paul Signac",
+"indication":"Angle avenue Gambetta",
+"phone":"01 40 31 70 99",
+"id":"58",
+"coordinates":["2.401268","48.867950"]
+},
+{
+"title":"Père Lachaise - Ménilmontant",
+"snippet":"30 boulevard de MenilmontantAngle place Auguste MéthivierTél 01 48 05 92 12",
+"street":"30 boulevard de Menilmontant",
+"indication":"Angle place Auguste Méthivier",
+"phone":"01 48 05 92 12",
+"id":"84",
+"coordinates":["2.388462","48.861031"]
+},
+{
+"title":"Porte de Bagnolet",
+"snippet":"6 place de la Porte de BagnoletFace au Sqaure SéverineTél 01 40 31 60 79",
+"street":"6 place de la Porte de Bagnolet",
+"indication":"Face au Sqaure Séverine",
+"phone":"01 40 31 60 79",
+"id":"59",
+"coordinates":["2.409412","48.864586"]
+},
+{
+"title":"Porte de Montreuil",
+"snippet":"1 avenue de la Porte de MontreuilAngle boulevard DavoutTél 01 43 70 00 00",
+"street":"1 avenue de la Porte de Montreui",
+"indication":"Angle boulevard Davout",
+"phone":"01 43 70 00 00",
+"id":"65",
+"coordinates":["2.410680","48.853516"]
+},
+{
+"title":"Pyrénées - Avron",
+"snippet":"67 rue des PyrénéesAngle rue d‘AvronTél 01 43 67 81 92",
+"street":"67 rue des Pyrénées",
+"indication":"Angle rue d‘Avron",
+"phone":"01 43 67 81 92",
+"id":"53",
+"coordinates":["2.405947","48.852661"]
+},
+{
+"title":"Gare du Nord",
+"street":"10 rue de Dunkerque 75010 Paris",
+"id":"121",
+"coordinates":["2.353413","48.880394"]
+},
+{
+"title":"Gare de L‘Est",
+"street":"2 rue du 8 mai 1945 75010 Paris",
+"id":"81",
+"coordinates":["2.359443","48.875908"]
+},
+{
+"title":"Gare d‘Austerlitz",
+"street":"80 quai d‘Austerlitz 75013 Paris",
+"id":"27",
+"coordinates":["2.366245","48.842731"]
+},
+{
+"title":"Gare de Lyon",
+"street":"21 boulevard Diderot 75012 Paris",
+"id":"98",
+"coordinates":["2.372854","48.845570"]
+},
+{
+"title":"Gare de Bercy",
+"street":"50 boulevard de Bercy 75012 Paris",
+"id":"113",
+"coordinates":["2.382596","48.839710"]
+},
+{
+"title":"Gare Saint Lazare",
+"street":"113 rue Saint Lazare 75008 Paris",
+"id":"32",
+"coordinates":["2.325990","48.875610"]
+},
+{
+"title":"Gare de Montparnasse",
+"street":"29 rue de l‘Arrivée 75015 Paris",
+"id":"87",
+"coordinates":["2.320797","48.841984"]
+}
+]

@@ -1,0 +1,2682 @@
+[
+  {
+    "title" : "Bibliothèques du Centre Pompidou",
+    "id" : "25",
+    "street" : "3 rue beaubourg",
+    "coordinates" : [
+      2.353219,
+      48.860767
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Bibliothèque Nationale de France - François Mitterrand",
+    "id" : "1587",
+    "street" : "quai Francois Mauriac",
+    "coordinates" : [
+      2.377498,
+      48.833981
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Centre de documentation de la documentation française",
+    "id" : "1588",
+    "street" : "29  quai Voltaire",
+    "coordinates" : [
+      2.330085,
+      48.859318
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Bibliothèque de la Cité des Sciences",
+    "id" : "2891",
+    "street" : "30 avenue Corentin Cariou",
+    "coordinates" : [
+      2.387059,
+      48.895985
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Nationale de France, site de l'Arsenal",
+    "id" : "19",
+    "street" : "1  rue de Sully",
+    "coordinates" : [
+      2.364152,
+      48.849957
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Bibliothèque \/ Vidéothèque de la Maison européenne de la photographie",
+    "id" : "20",
+    "street" : "5  rue de Fourcy",
+    "coordinates" : [
+      2.35914,
+      48.854893
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Bibliothèque de la Maison de Victor Hugo",
+    "id" : "22",
+    "street" : "6, place des Vosges",
+    "coordinates" : [
+      2.3656998,
+      48.8561917
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Bibliothèque du Pavillon de l'Arsenal",
+    "id" : "26",
+    "street" : "21  boulevard Morland",
+    "coordinates" : [
+      2.362304,
+      48.850742
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Ecole Nationale Supérieure des Beaux-Arts",
+    "id" : "81",
+    "street" : "14 rue Bonaparte",
+    "coordinates" : [
+      2.334665,
+      48.856594
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Musée de l'Opéra",
+    "id" : "1407",
+    "street" : "Angle de la rue Scribe",
+    "coordinates" : [
+      2.33053559999996,
+      48.871656
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Cité de l'architecture et du patrimoine",
+    "id" : "1421",
+    "street" : "1  place du Trocadéro",
+    "coordinates" : [
+      2.281994,
+      48.862392
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Etablissement public de la Porte Dorée - Cité nationale de l'histoire de l'immigration \/ Aquarium",
+    "id" : "1450",
+    "street" : "293 avenue Daumesnil",
+    "coordinates" : [
+      2.408966,
+      48.834743
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Cité de la musique - Musée",
+    "id" : "1486",
+    "street" : "211 avenue Jean Jaurés",
+    "coordinates" : [
+      2.39443200000005,
+      48.8890923
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Sigmund Freud de la Société Psychanalytique de Paris",
+    "id" : "1579",
+    "street" : "15  rue Vauquelin",
+    "coordinates" : [
+      2.346732,
+      48.840714
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque-Musée de l'Opéra (BNF)",
+    "id" : "1580",
+    "street" : "8 rue Scribe",
+    "coordinates" : [
+      2.331601,
+      48.871971
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Bibliothèque des arts décoratifs",
+    "id" : "1581",
+    "street" : "111  rue de Rivoli",
+    "coordinates" : [
+      2.333779,
+      48.863209
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Bibliothèque du film (BiFi)",
+    "id" : "1582",
+    "street" : "51 rue de Bercy ",
+    "coordinates" : [
+      2.382064,
+      48.837925
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Bibliothèque Nationale de France - Richelieu",
+    "id" : "1585",
+    "street" : "5 rue Vivienne",
+    "coordinates" : [
+      2.339551,
+      48.867966
+    ],
+    "zipcode" : "75002"
+  },
+  {
+    "title" : "Bibliothèque Nationale de France - François Mitterrand",
+    "id" : "1587",
+    "street" : "quai Francois Mauriac",
+    "coordinates" : [
+      2.377498,
+      48.833981
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Bibliothèque du conservatoire national des arts et métiers",
+    "id" : "1591",
+    "street" : "292  rue Saint Martin",
+    "coordinates" : [
+      2.354459,
+      48.867012
+    ],
+    "zipcode" : "75003"
+  },
+  {
+    "title" : "Les bibliothèques de l'Institut Catholique de Paris",
+    "id" : "1592",
+    "street" : "21  rue d'Assas",
+    "coordinates" : [
+      2.329573,
+      48.848007
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Bibliothèque de l'Alliance israëlite universelle",
+    "id" : "1593",
+    "street" : "45  rue La Bruyere",
+    "coordinates" : [
+      2.33268,
+      48.879784
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Mouffetard, Théâtre des arts de la Marionnette",
+    "id" : "1637",
+    "street" : "73, rue Mouffetard  ",
+    "coordinates" : [
+      2.349706,
+      48.841961
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque Centrale des Musées Nationaux",
+    "id" : "2884",
+    "street" : "2 quai François Mitterrand",
+    "coordinates" : [
+      2.333543,
+      48.860107
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Bibliothèques de l'Institut de France",
+    "id" : "2887",
+    "street" : "23 quai de Conti ",
+    "coordinates" : [
+      2.337191,
+      48.857643
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Médiathèque Musicale Mahler",
+    "id" : "2888",
+    "street" : "11 bis rue de Vezelay ",
+    "coordinates" : [
+      2.313922,
+      48.878586
+    ],
+    "zipcode" : "75008"
+  },
+  {
+    "title" : "Bibliothèque de la SACD",
+    "id" : "2889",
+    "street" : "5 rue Ballu ",
+    "coordinates" : [
+      2.330954,
+      48.881676
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "IRCAM",
+    "id" : "2899",
+    "street" : "1, place Igor-Stravinsky",
+    "coordinates" : [
+      2.358279,
+      48.853428
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Théâtre de la Marionnette de Paris \/ Centre de ressources",
+    "id" : "5023",
+    "street" : "38 rue Basfroi",
+    "coordinates" : [
+      2.378763,
+      48.855724
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "title" : "Centre de documentation de la C.O.A.R.C.",
+    "id" : "5046",
+    "street" : "55 rue des Francs-Bourgeois",
+    "coordinates" : [
+      2.357599,
+      48.859577
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Musée du quai Branly",
+    "id" : "6378",
+    "street" : "37 quai Branly",
+    "coordinates" : [
+      2.297441,
+      48.8619
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Centre de documentation de la musique contemporaine (CDMC)",
+    "id" : "6418",
+    "street" : "16 place de la Fontaine-aux-Lions",
+    "coordinates" : [
+      2.39289,
+      48.888947
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Médiathèque du Centre national de la danse",
+    "id" : "6419",
+    "street" : "1, rue Victor Hugo",
+    "coordinates" : [
+      2.403437,
+      48.894878
+    ],
+    "zipcode" : "93"
+  },
+  {
+    "title" : "Médiathèque de l'Architecture et du Patrimoine",
+    "id" : "6422",
+    "street" : "11 rue du Séminaire de Conflans",
+    "coordinates" : [
+      2.403732,
+      48.821995
+    ],
+    "zipcode" : "94"
+  },
+  {
+    "title" : "Bibliothèque de l'UNESCO",
+    "id" : "6425",
+    "street" : "7, place de Fontenoy",
+    "coordinates" : [
+      2.306298,
+      48.850143
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Centre de documentation Hors Les Murs",
+    "id" : "6428",
+    "street" : "68, rue de la Folie Méricourt",
+    "coordinates" : [
+      2.37095,
+      48.865257
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "title" : "La Gaîté lyrique",
+    "id" : "6461",
+    "street" : "3bis rue Papin",
+    "coordinates" : [
+      2.35400749999997,
+      48.8668392
+    ],
+    "zipcode" : "75003"
+  },
+  {
+    "title" : "Centre de documentation de l'association Primo Levi",
+    "id" : "6708",
+    "street" : "107, avenue Parmentier",
+    "coordinates" : [
+      2.37274950000005,
+      48.8673769
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "title" : "Bibliothèque du Musée Cernuschi - Musée des arts de l'Asie de la Ville de Paris",
+    "id" : "6781",
+    "street" : "7, avenue Vélasquez",
+    "coordinates" : [
+      2.31203159999995,
+      48.8796664
+    ],
+    "zipcode" : "75008"
+  },
+  {
+    "title" : "Bibliothèque Baudoyer \/ Arthur Rimbaud",
+    "id" : "3",
+    "street" : "2 place Baudoyer (mairie du 4e)",
+    "coordinates" : [
+      2.35567479999997,
+      48.8561982
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Bibliothèque Louvre",
+    "id" : "1663",
+    "street" : "4 Place du Louvre (Mairie du 1er)",
+    "coordinates" : [
+      2.34097870000005,
+      48.860081
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Bibliothèque Charlotte Delbo",
+    "id" : "1664",
+    "street" : "2, passage des Petits Pères",
+    "coordinates" : [
+      2.34028060000003,
+      48.8665089
+    ],
+    "zipcode" : "75002"
+  },
+  {
+    "title" : "Bibliothèque Marguerite Audoux",
+    "id" : "1665",
+    "street" : "10 rue Portefoin",
+    "coordinates" : [
+      2.35996120000004,
+      48.8636674
+    ],
+    "zipcode" : "75003"
+  },
+  {
+    "title" : "Bibliothèque Mouffetard \/ Mohammed Arkoun",
+    "id" : "1668",
+    "street" : "74 rue Mouffetard",
+    "coordinates" : [
+      2.34966970000005,
+      48.8422981
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque Rainer Maria Rilke",
+    "id" : "1672",
+    "street" : "88 Ter boulevard de Port-Royal",
+    "coordinates" : [
+      2.339165,
+      48.839214
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque Buffon",
+    "id" : "1682",
+    "street" : "15 Bis rue Buffon",
+    "coordinates" : [
+      2.36259834550788,
+      48.8430757873937
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque André Malraux",
+    "id" : "1691",
+    "street" : "112 rue de Rennes",
+    "coordinates" : [
+      2.32742840000003,
+      48.8477678
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Bibliothèque Amélie",
+    "id" : "1692",
+    "street" : "164 rue de Grenelle",
+    "coordinates" : [
+      2.30896959999995,
+      48.8580523
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Bibliothèque Saint-Simon",
+    "id" : "1693",
+    "street" : "116 rue de Grenelle",
+    "coordinates" : [
+      2.32002979999993,
+      48.85682
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Bibliothèque Europe",
+    "id" : "1704",
+    "street" : "3 rue de Lisbonne",
+    "coordinates" : [
+      2.31780400000002,
+      48.877862
+    ],
+    "zipcode" : "75008"
+  },
+  {
+    "title" : "Bibliothèque Valeyre",
+    "id" : "1711",
+    "street" : "24 rue de Rochechouart",
+    "coordinates" : [
+      2.34496990000002,
+      48.8781145
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Bibliothèque Drouot",
+    "id" : "1719",
+    "street" : "11  rue Drouot",
+    "coordinates" : [
+      2.34043729999996,
+      48.8734316
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Bibliothèque Château d'eau",
+    "id" : "1720",
+    "street" : "72 rue du Faubourg Saint-Martin",
+    "coordinates" : [
+      2.35729200000003,
+      48.8718362
+    ],
+    "zipcode" : "75010"
+  },
+  {
+    "title" : "Bibliothèque François Villon",
+    "id" : "1722",
+    "street" : "81, boulevard de la Villette",
+    "coordinates" : [
+      2.37075089999996,
+      48.8771491
+    ],
+    "zipcode" : "75010"
+  },
+  {
+    "title" : "Bibliothèque Parmentier",
+    "id" : "1723",
+    "street" : "20 avenue Parmentier",
+    "coordinates" : [
+      2.37898500000006,
+      48.8600703
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "title" : "Bibliothèque Faidherbe",
+    "id" : "1724",
+    "street" : "18 rue Faidherbe",
+    "coordinates" : [
+      2.38396369999998,
+      48.8515538
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "title" : "Bibliothèque Saint-Eloi",
+    "id" : "1725",
+    "street" : "23 rue du Colonel Rozanoff",
+    "coordinates" : [
+      2.38715160000004,
+      48.8456243
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Médiathèque Hélène Berr",
+    "id" : "1726",
+    "street" : "70 rue de Picpus",
+    "coordinates" : [
+      2.39743199999998,
+      48.8425978
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Médiathèque Jean-Pierre Melville",
+    "id" : "1728",
+    "street" : "79 rue Nationale",
+    "coordinates" : [
+      2.36651840000002,
+      48.826927
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Bibliothèque Italie",
+    "id" : "1729",
+    "street" : "211 Boulevard Vincent Auriol",
+    "coordinates" : [
+      2.35640390000003,
+      48.830891
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Bibliothèque Glacière",
+    "id" : "1730",
+    "street" : "132 rue de la Glacière",
+    "coordinates" : [
+      2.34192940000003,
+      48.8267484
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Bibliothèque Vandamme",
+    "id" : "1731",
+    "street" : "80 avenue du Maine",
+    "coordinates" : [
+      2.32203819999995,
+      48.838622
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "title" : "Bibliothèque Aimé Césaire",
+    "id" : "1732",
+    "street" : "5 rue de Ridder",
+    "coordinates" : [
+      2.31177260000004,
+      48.8312301
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "title" : "Bibliothèque Georges Brassens",
+    "id" : "1733",
+    "street" : "38 rue Gassendi",
+    "coordinates" : [
+      2.32590549999998,
+      48.8337931
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "title" : "Bibliothèque Andrée Chedid",
+    "id" : "1734",
+    "street" : "36 rue Emeriau",
+    "coordinates" : [
+      2.28606549999995,
+      48.8497895
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Bibliothèque Vaugirard",
+    "id" : "1735",
+    "street" : "154 rue Lecourbe",
+    "coordinates" : [
+      2.29947590000006,
+      48.8417079
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Bibliothèque Germaine Tillion",
+    "id" : "1737",
+    "street" : "6 rue du Commandant Schloesing",
+    "coordinates" : [
+      2.2845532,
+      48.8618631
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Bibliothèque Musset",
+    "id" : "1738",
+    "street" : "20 rue de Musset",
+    "coordinates" : [
+      2.26347759999999,
+      48.8420458
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Bibliothèque Batignolles",
+    "id" : "1739",
+    "street" : "18, rue des Batignolles",
+    "coordinates" : [
+      2.32187190000002,
+      48.8843821
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Médiathèque Edmond Rostand",
+    "id" : "1741",
+    "street" : "11 rue Nicolas Chuquet",
+    "coordinates" : [
+      2.30365849999998,
+      48.8887726
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Bibliothèque Clignancourt \/ Robert Sabatier",
+    "id" : "1742",
+    "street" : "29 rue Hermel",
+    "coordinates" : [
+      2.34443529999999,
+      48.8916173
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque Maurice Genevoix",
+    "id" : "1743",
+    "street" : "19 rue Tristan Tzara",
+    "coordinates" : [
+      2.36387639999998,
+      48.8950585
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque Goutte d'Or",
+    "id" : "1744",
+    "street" : "2 rue Fleury",
+    "coordinates" : [
+      2.35412589999999,
+      48.8842937
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque Jacqueline de Romilly \/  Porte Montmartre",
+    "id" : "1745",
+    "street" : "16 avenue de la Porte Montmartre",
+    "coordinates" : [
+      2.33629459999997,
+      48.8991509
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque Place des Fêtes",
+    "id" : "1746",
+    "street" : "18 rue Janssen",
+    "coordinates" : [
+      2.39760219999994,
+      48.879374
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Fessart",
+    "id" : "1748",
+    "street" : "6 rue Fessart",
+    "coordinates" : [
+      2.38812899999994,
+      48.8762647
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Couronnes",
+    "id" : "1750",
+    "street" : "66 rue des Couronnes",
+    "coordinates" : [
+      2.38425359999997,
+      48.8701521
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Médiathèque Marguerite Duras",
+    "id" : "1752",
+    "street" : "115 rue de Bagnolet",
+    "coordinates" : [
+      2.40362529999993,
+      48.8599582
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Bibliothèque Sorbier",
+    "id" : "1753",
+    "street" : "17 rue Sorbier",
+    "coordinates" : [
+      2.39165460000004,
+      48.8666133
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Bibliothèque Oscar Wilde",
+    "id" : "1754",
+    "street" : "12 rue du Télégraphe",
+    "coordinates" : [
+      2.39999299999999,
+      48.8719887
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Bibliothèque Chaptal",
+    "id" : "6094",
+    "street" : "26, rue Chaptal",
+    "coordinates" : [
+      2.33234049999999,
+      48.881101
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Médiathèque Marguerite Yourcenar",
+    "id" : "6218",
+    "street" : "41, rue d'Alleray",
+    "coordinates" : [
+      2.30342599999994,
+      48.8367682
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Bibliothèque Claude Lévi-Strauss",
+    "id" : "6280",
+    "street" : "41, avenue de Flandre",
+    "coordinates" : [
+      2.37146039999993,
+      48.8864795
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Louise Michel",
+    "id" : "6320",
+    "street" : "29 \/ 35 rue des Haies",
+    "coordinates" : [
+      2.40146170000003,
+      48.8533782
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Bibliothèque Vaclav Havel",
+    "id" : "8693",
+    "street" : "halle Pajol, rue Pajol",
+    "coordinates" : [
+      2.36247419999995,
+      48.88887
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque polonaise",
+    "id" : "14",
+    "street" : "6  quai d'orleans",
+    "coordinates" : [
+      2.35566,
+      48.851227
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Institut Hongrois de Paris",
+    "id" : "1327",
+    "street" : "92  rue bonaparte",
+    "coordinates" : [
+      2.332717,
+      48.848984
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Institut culturel Néerlandais",
+    "id" : "1328",
+    "street" : "121 rue de lille",
+    "coordinates" : [
+      2.319725,
+      48.861237
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Maison de la Culture du Japon",
+    "id" : "1332",
+    "street" : "101  quai branly",
+    "coordinates" : [
+      2.28919,
+      48.854885
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Centre culturel Coréen",
+    "id" : "1333",
+    "street" : "2  avenue d' Iena",
+    "coordinates" : [
+      2.294408,
+      48.865376
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Goethe-Institut de Paris",
+    "id" : "1334",
+    "street" : "17  avenue d'Iena",
+    "coordinates" : [
+      2.294736,
+      48.866493
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Centre culturel d'Iran",
+    "id" : "1336",
+    "street" : "6  rue jean bart",
+    "coordinates" : [
+      2.330999,
+      48.847706
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Institut du Monde Arabe",
+    "id" : "1337",
+    "street" : "1, rue des Fossés-Saint-Bernard",
+    "coordinates" : [
+      2.35548229999995,
+      48.8492671
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Centre culturel Tchèque",
+    "id" : "1338",
+    "street" : "18  rue bonaparte",
+    "coordinates" : [
+      2.334376,
+      48.856174
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Bibliothèque américaine à Paris",
+    "id" : "1583",
+    "street" : "10  rue Général Camou",
+    "coordinates" : [
+      2.299032,
+      48.858803
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Délégation générale du Québec à Paris",
+    "id" : "1594",
+    "street" : "66 rue Pergolèse ",
+    "coordinates" : [
+      2.280567,
+      48.872944
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Institut culturel Italien",
+    "id" : "1759",
+    "street" : "73, rue de Grenelle",
+    "coordinates" : [
+      2.324016,
+      48.855354
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Bibliothèque Sainte Geneviève",
+    "id" : "2905",
+    "street" : "10 place du Panthéon ",
+    "coordinates" : [
+      2.345598,
+      48.846897
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque Octavio Paz de l'Instituto Cervantes de Paris",
+    "id" : "2909",
+    "street" : "11  avenue Marceau",
+    "coordinates" : [
+      2.299658,
+      48.865997
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Centre culturel Irlandais",
+    "id" : "2910",
+    "street" : "5 rue des Irlandais ",
+    "coordinates" : [
+      2.345898,
+      48.844196
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Biblliothèque du Centre culturel Calouste Gulbenkian",
+    "id" : "2911",
+    "street" : "39, bd. de La Tour-Maubourg",
+    "coordinates" : [
+      2.31038160000003,
+      48.8590616
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Centre culturel canadien",
+    "id" : "5442",
+    "street" : "5, rue de Constantine",
+    "coordinates" : [
+      2.314909,
+      48.860657
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "La Maison d'Europe et d'Orient",
+    "id" : "6390",
+    "street" : "3, passage Hennel",
+    "coordinates" : [
+      2.379935,
+      48.845226
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Terra Foundation for American Art",
+    "id" : "6391",
+    "street" : "29, rue des Pyramides",
+    "coordinates" : [
+      2.333795,
+      48.866241
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Centre de Russie pour la Science et la Culture à Paris (CRSC)",
+    "id" : "6392",
+    "street" : "61, rue Boissière",
+    "coordinates" : [
+      2.287509,
+      48.868271
+    ],
+    "zipcode" : "75116"
+  },
+  {
+    "title" : "Centre culturel de Serbie",
+    "id" : "6393",
+    "street" : "123, rue Saint-Martin",
+    "coordinates" : [
+      2.351427,
+      48.861103
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Centre Culturel Arabe Syrien de Paris",
+    "id" : "6399",
+    "street" : "12 avenue de Tourville",
+    "coordinates" : [
+      2.308229,
+      48.854149
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Institut Kurde de Paris",
+    "id" : "6402",
+    "street" : "106, rue La Fayette",
+    "coordinates" : [
+      2.349207,
+      48.87727
+    ],
+    "zipcode" : "75010"
+  },
+  {
+    "title" : "Institut Culturel Roumain (ICR-P)",
+    "id" : "6406",
+    "street" : "1 rue de l'Exposition",
+    "coordinates" : [
+      2.302533,
+      48.858337
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Maison du Danemark",
+    "id" : "6407",
+    "street" : "142 Avenue des Champs-Élysées",
+    "coordinates" : [
+      2.298656,
+      48.872978
+    ],
+    "zipcode" : "75008"
+  },
+  {
+    "title" : "Centre Culturel d'Egypte à Paris",
+    "id" : "6408",
+    "street" : "111, bd Saint-Michel",
+    "coordinates" : [
+      2.338897,
+      48.843395
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Institut finlandais en France",
+    "id" : "6410",
+    "street" : "60, rue des Ecoles",
+    "coordinates" : [
+      2.343418,
+      48.850163
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Centre Culturel Algérien",
+    "id" : "6411",
+    "street" : "171, rue de la Croix-Nivert",
+    "coordinates" : [
+      2.290004,
+      48.839737
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Centre de Recherches sur la Diaspora Arménienne",
+    "id" : "6412",
+    "street" : "9 rue Cadet",
+    "coordinates" : [
+      2.342969,
+      48.874989
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Forum culturel autrichien à Paris",
+    "id" : "6413",
+    "street" : "17, avenue de Villars",
+    "coordinates" : [
+      2.313913,
+      48.851887
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Centre Culturel Bulgare",
+    "id" : "6414",
+    "street" : "28, rue la Boétie",
+    "coordinates" : [
+      2.315553,
+      48.87397
+    ],
+    "zipcode" : "75008"
+  },
+  {
+    "title" : "Centre Culturel de Chine",
+    "id" : "6415",
+    "street" : "1, bd. de la Tour-Maubourg",
+    "coordinates" : [
+      2.31039,
+      48.862309
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Comptoir de prêt Baudoyer",
+    "id" : "15",
+    "street" : "21 rue Saint-Louis en l'ile",
+    "coordinates" : [
+      2.35731799999996,
+      48.851524
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Bibliothèque Charlotte Delbo",
+    "id" : "1664",
+    "street" : "2, passage des Petits Pères",
+    "coordinates" : [
+      2.34028060000003,
+      48.8665089
+    ],
+    "zipcode" : "75002"
+  },
+  {
+    "title" : "Bibliothèque Marguerite Audoux",
+    "id" : "1665",
+    "street" : "10 rue Portefoin",
+    "coordinates" : [
+      2.35996120000004,
+      48.8636674
+    ],
+    "zipcode" : "75003"
+  },
+  {
+    "title" : "Bibliothèque Mouffetard \/ Mohammed Arkoun",
+    "id" : "1668",
+    "street" : "74 rue Mouffetard",
+    "coordinates" : [
+      2.34966970000005,
+      48.8422981
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque Rainer Maria Rilke",
+    "id" : "1672",
+    "street" : "88 Ter boulevard de Port-Royal",
+    "coordinates" : [
+      2.339165,
+      48.839214
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque Buffon",
+    "id" : "1682",
+    "street" : "15 Bis rue Buffon",
+    "coordinates" : [
+      2.36259834550788,
+      48.8430757873937
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque André Malraux",
+    "id" : "1691",
+    "street" : "112 rue de Rennes",
+    "coordinates" : [
+      2.32742840000003,
+      48.8477678
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Bibliothèque Amélie",
+    "id" : "1692",
+    "street" : "164 rue de Grenelle",
+    "coordinates" : [
+      2.30896959999995,
+      48.8580523
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Bibliothèque Saint-Simon",
+    "id" : "1693",
+    "street" : "116 rue de Grenelle",
+    "coordinates" : [
+      2.32002979999993,
+      48.85682
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Bibliothèque Courcelles",
+    "id" : "1694",
+    "street" : "17ter, avenue Beaucour",
+    "coordinates" : [
+      2.30291209999996,
+      48.8775995
+    ],
+    "zipcode" : "75008"
+  },
+  {
+    "title" : "Bibliothèque Valeyre",
+    "id" : "1711",
+    "street" : "24 rue de Rochechouart",
+    "coordinates" : [
+      2.34496990000002,
+      48.8781145
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Bibliothèque Lancry",
+    "id" : "1721",
+    "street" : "11 rue de Lancry",
+    "coordinates" : [
+      2.36010799999997,
+      48.869387
+    ],
+    "zipcode" : "75010"
+  },
+  {
+    "title" : "Bibliothèque François Villon",
+    "id" : "1722",
+    "street" : "81, boulevard de la Villette",
+    "coordinates" : [
+      2.37075089999996,
+      48.8771491
+    ],
+    "zipcode" : "75010"
+  },
+  {
+    "title" : "Bibliothèque Parmentier",
+    "id" : "1723",
+    "street" : "20 avenue Parmentier",
+    "coordinates" : [
+      2.37898500000006,
+      48.8600703
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "title" : "Bibliothèque Faidherbe",
+    "id" : "1724",
+    "street" : "18 rue Faidherbe",
+    "coordinates" : [
+      2.38396369999998,
+      48.8515538
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "title" : "Bibliothèque Saint-Eloi",
+    "id" : "1725",
+    "street" : "23 rue du Colonel Rozanoff",
+    "coordinates" : [
+      2.38715160000004,
+      48.8456243
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Médiathèque Hélène Berr",
+    "id" : "1726",
+    "street" : "70 rue de Picpus",
+    "coordinates" : [
+      2.39743199999998,
+      48.8425978
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Bibliothèque Diderot",
+    "id" : "1727",
+    "street" : "42 avenue Daumesnil",
+    "coordinates" : [
+      2.37762789999999,
+      48.8460522
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Médiathèque Jean-Pierre Melville",
+    "id" : "1728",
+    "street" : "79 rue Nationale",
+    "coordinates" : [
+      2.36651840000002,
+      48.826927
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Bibliothèque Italie",
+    "id" : "1729",
+    "street" : "211 Boulevard Vincent Auriol",
+    "coordinates" : [
+      2.35640390000003,
+      48.830891
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Bibliothèque Glacière",
+    "id" : "1730",
+    "street" : "132 rue de la Glacière",
+    "coordinates" : [
+      2.34192940000003,
+      48.8267484
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Bibliothèque Vandamme",
+    "id" : "1731",
+    "street" : "80 avenue du Maine",
+    "coordinates" : [
+      2.32203819999995,
+      48.838622
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "title" : "Bibliothèque Aimé Césaire",
+    "id" : "1732",
+    "street" : "5 rue de Ridder",
+    "coordinates" : [
+      2.31177260000004,
+      48.8312301
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "title" : "Bibliothèque Georges Brassens",
+    "id" : "1733",
+    "street" : "38 rue Gassendi",
+    "coordinates" : [
+      2.32590549999998,
+      48.8337931
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "title" : "Bibliothèque Andrée Chedid",
+    "id" : "1734",
+    "street" : "36 rue Emeriau",
+    "coordinates" : [
+      2.28606549999995,
+      48.8497895
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Bibliothèque Vaugirard",
+    "id" : "1735",
+    "street" : "154 rue Lecourbe",
+    "coordinates" : [
+      2.29947590000006,
+      48.8417079
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Bibliothèque Gutenberg",
+    "id" : "1736",
+    "street" : "8 rue de la Montagne d'Aulas",
+    "coordinates" : [
+      2.27870540000004,
+      48.8402481
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Bibliothèque Germaine Tillion",
+    "id" : "1737",
+    "street" : "6 rue du Commandant Schloesing",
+    "coordinates" : [
+      2.2845532,
+      48.8618631
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Bibliothèque Musset",
+    "id" : "1738",
+    "street" : "20 rue de Musset",
+    "coordinates" : [
+      2.26347759999999,
+      48.8420458
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Bibliothèque Batignolles",
+    "id" : "1739",
+    "street" : "18, rue des Batignolles",
+    "coordinates" : [
+      2.32187190000002,
+      48.8843821
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Bibliothèque Colette Vivier",
+    "id" : "1740",
+    "street" : "6 rue Fourneyron",
+    "coordinates" : [
+      2.31927210000003,
+      48.8898777
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Médiathèque Edmond Rostand",
+    "id" : "1741",
+    "street" : "11 rue Nicolas Chuquet",
+    "coordinates" : [
+      2.30365849999998,
+      48.8887726
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Bibliothèque Clignancourt \/ Robert Sabatier",
+    "id" : "1742",
+    "street" : "29 rue Hermel",
+    "coordinates" : [
+      2.34443529999999,
+      48.8916173
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque Maurice Genevoix",
+    "id" : "1743",
+    "street" : "19 rue Tristan Tzara",
+    "coordinates" : [
+      2.36387639999998,
+      48.8950585
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque Goutte d'Or",
+    "id" : "1744",
+    "street" : "2 rue Fleury",
+    "coordinates" : [
+      2.35412589999999,
+      48.8842937
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque Jacqueline de Romilly \/  Porte Montmartre",
+    "id" : "1745",
+    "street" : "16 avenue de la Porte Montmartre",
+    "coordinates" : [
+      2.33629459999997,
+      48.8991509
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque Place des Fêtes",
+    "id" : "1746",
+    "street" : "18 rue Janssen",
+    "coordinates" : [
+      2.39760219999994,
+      48.879374
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Hergé",
+    "id" : "1747",
+    "street" : "2 rue du Département",
+    "coordinates" : [
+      2.36735829999998,
+      48.8849769
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Fessart",
+    "id" : "1748",
+    "street" : "6 rue Fessart",
+    "coordinates" : [
+      2.38812899999994,
+      48.8762647
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Crimée",
+    "id" : "1749",
+    "street" : "42 rue Petit",
+    "coordinates" : [
+      2.38294189999999,
+      48.8848972
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Couronnes",
+    "id" : "1750",
+    "street" : "66 rue des Couronnes",
+    "coordinates" : [
+      2.38425359999997,
+      48.8701521
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Médiathèque Marguerite Duras",
+    "id" : "1752",
+    "street" : "115 rue de Bagnolet",
+    "coordinates" : [
+      2.40362529999993,
+      48.8599582
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Bibliothèque Sorbier",
+    "id" : "1753",
+    "street" : "17 rue Sorbier",
+    "coordinates" : [
+      2.39165460000004,
+      48.8666133
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Bibliothèque Oscar Wilde",
+    "id" : "1754",
+    "street" : "12 rue du Télégraphe",
+    "coordinates" : [
+      2.39999299999999,
+      48.8719887
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "bibliothèque L'Heure joyeuse",
+    "id" : "2882",
+    "street" : "6-12 rue des Prêtres Saint-Séverin",
+    "coordinates" : [
+      2.34494040000004,
+      48.8518325
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque Chaptal",
+    "id" : "6094",
+    "street" : "26, rue Chaptal",
+    "coordinates" : [
+      2.33234049999999,
+      48.881101
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Médiathèque Marguerite Yourcenar",
+    "id" : "6218",
+    "street" : "41, rue d'Alleray",
+    "coordinates" : [
+      2.30342599999994,
+      48.8367682
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Bibliothèque Benjamin Rabier",
+    "id" : "6277",
+    "street" : "141, avenue de Flandre",
+    "coordinates" : [
+      2.3791281,
+      48.8927759
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Mortier",
+    "id" : "6309",
+    "street" : "109, boulevard Mortier",
+    "coordinates" : [
+      2.40851680000003,
+      48.8712503
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Bibliothèque Louise Michel",
+    "id" : "6320",
+    "street" : "29 \/ 35 rue des Haies",
+    "coordinates" : [
+      2.40146170000003,
+      48.8533782
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Bibliothèque Vaclav Havel",
+    "id" : "8693",
+    "street" : "halle Pajol, rue Pajol",
+    "coordinates" : [
+      2.36247419999995,
+      48.88887
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Comptoir de prêt Baudoyer",
+    "id" : "15",
+    "street" : "21 rue Saint-Louis en l'ile",
+    "coordinates" : [
+      2.35731799999996,
+      48.851524
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Bibliothèque Louvre",
+    "id" : "1663",
+    "street" : "4 Place du Louvre (Mairie du 1er)",
+    "coordinates" : [
+      2.34097870000005,
+      48.860081
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Bibliothèque Charlotte Delbo",
+    "id" : "1664",
+    "street" : "2, passage des Petits Pères",
+    "coordinates" : [
+      2.34028060000003,
+      48.8665089
+    ],
+    "zipcode" : "75002"
+  },
+  {
+    "title" : "Bibliothèque Marguerite Audoux",
+    "id" : "1665",
+    "street" : "10 rue Portefoin",
+    "coordinates" : [
+      2.35996120000004,
+      48.8636674
+    ],
+    "zipcode" : "75003"
+  },
+  {
+    "title" : "Bibliothèque Mouffetard \/ Mohammed Arkoun",
+    "id" : "1668",
+    "street" : "74 rue Mouffetard",
+    "coordinates" : [
+      2.34966970000005,
+      48.8422981
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque Rainer Maria Rilke",
+    "id" : "1672",
+    "street" : "88 Ter boulevard de Port-Royal",
+    "coordinates" : [
+      2.339165,
+      48.839214
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque Buffon",
+    "id" : "1682",
+    "street" : "15 Bis rue Buffon",
+    "coordinates" : [
+      2.36259834550788,
+      48.8430757873937
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque André Malraux",
+    "id" : "1691",
+    "street" : "112 rue de Rennes",
+    "coordinates" : [
+      2.32742840000003,
+      48.8477678
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Bibliothèque Amélie",
+    "id" : "1692",
+    "street" : "164 rue de Grenelle",
+    "coordinates" : [
+      2.30896959999995,
+      48.8580523
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Bibliothèque Saint-Simon",
+    "id" : "1693",
+    "street" : "116 rue de Grenelle",
+    "coordinates" : [
+      2.32002979999993,
+      48.85682
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Bibliothèque Courcelles",
+    "id" : "1694",
+    "street" : "17ter, avenue Beaucour",
+    "coordinates" : [
+      2.30291209999996,
+      48.8775995
+    ],
+    "zipcode" : "75008"
+  },
+  {
+    "title" : "Bibliothèque Europe",
+    "id" : "1704",
+    "street" : "3 rue de Lisbonne",
+    "coordinates" : [
+      2.31780400000002,
+      48.877862
+    ],
+    "zipcode" : "75008"
+  },
+  {
+    "title" : "Bibliothèque Valeyre",
+    "id" : "1711",
+    "street" : "24 rue de Rochechouart",
+    "coordinates" : [
+      2.34496990000002,
+      48.8781145
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Bibliothèque Drouot",
+    "id" : "1719",
+    "street" : "11  rue Drouot",
+    "coordinates" : [
+      2.34043729999996,
+      48.8734316
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Bibliothèque Château d'eau",
+    "id" : "1720",
+    "street" : "72 rue du Faubourg Saint-Martin",
+    "coordinates" : [
+      2.35729200000003,
+      48.8718362
+    ],
+    "zipcode" : "75010"
+  },
+  {
+    "title" : "Bibliothèque Lancry",
+    "id" : "1721",
+    "street" : "11 rue de Lancry",
+    "coordinates" : [
+      2.36010799999997,
+      48.869387
+    ],
+    "zipcode" : "75010"
+  },
+  {
+    "title" : "Bibliothèque François Villon",
+    "id" : "1722",
+    "street" : "81, boulevard de la Villette",
+    "coordinates" : [
+      2.37075089999996,
+      48.8771491
+    ],
+    "zipcode" : "75010"
+  },
+  {
+    "title" : "Bibliothèque Parmentier",
+    "id" : "1723",
+    "street" : "20 avenue Parmentier",
+    "coordinates" : [
+      2.37898500000006,
+      48.8600703
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "title" : "Bibliothèque Faidherbe",
+    "id" : "1724",
+    "street" : "18 rue Faidherbe",
+    "coordinates" : [
+      2.38396369999998,
+      48.8515538
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "title" : "Bibliothèque Saint-Eloi",
+    "id" : "1725",
+    "street" : "23 rue du Colonel Rozanoff",
+    "coordinates" : [
+      2.38715160000004,
+      48.8456243
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Médiathèque Hélène Berr",
+    "id" : "1726",
+    "street" : "70 rue de Picpus",
+    "coordinates" : [
+      2.39743199999998,
+      48.8425978
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Bibliothèque Diderot",
+    "id" : "1727",
+    "street" : "42 avenue Daumesnil",
+    "coordinates" : [
+      2.37762789999999,
+      48.8460522
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Médiathèque Jean-Pierre Melville",
+    "id" : "1728",
+    "street" : "79 rue Nationale",
+    "coordinates" : [
+      2.36651840000002,
+      48.826927
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Bibliothèque Italie",
+    "id" : "1729",
+    "street" : "211 Boulevard Vincent Auriol",
+    "coordinates" : [
+      2.35640390000003,
+      48.830891
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Bibliothèque Glacière",
+    "id" : "1730",
+    "street" : "132 rue de la Glacière",
+    "coordinates" : [
+      2.34192940000003,
+      48.8267484
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Bibliothèque Vandamme",
+    "id" : "1731",
+    "street" : "80 avenue du Maine",
+    "coordinates" : [
+      2.32203819999995,
+      48.838622
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "title" : "Bibliothèque Aimé Césaire",
+    "id" : "1732",
+    "street" : "5 rue de Ridder",
+    "coordinates" : [
+      2.31177260000004,
+      48.8312301
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "title" : "Bibliothèque Georges Brassens",
+    "id" : "1733",
+    "street" : "38 rue Gassendi",
+    "coordinates" : [
+      2.32590549999998,
+      48.8337931
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "title" : "Bibliothèque Andrée Chedid",
+    "id" : "1734",
+    "street" : "36 rue Emeriau",
+    "coordinates" : [
+      2.28606549999995,
+      48.8497895
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Bibliothèque Vaugirard",
+    "id" : "1735",
+    "street" : "154 rue Lecourbe",
+    "coordinates" : [
+      2.29947590000006,
+      48.8417079
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Bibliothèque Gutenberg",
+    "id" : "1736",
+    "street" : "8 rue de la Montagne d'Aulas",
+    "coordinates" : [
+      2.27870540000004,
+      48.8402481
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Bibliothèque Germaine Tillion",
+    "id" : "1737",
+    "street" : "6 rue du Commandant Schloesing",
+    "coordinates" : [
+      2.2845532,
+      48.8618631
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Bibliothèque Musset",
+    "id" : "1738",
+    "street" : "20 rue de Musset",
+    "coordinates" : [
+      2.26347759999999,
+      48.8420458
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Bibliothèque Batignolles",
+    "id" : "1739",
+    "street" : "18, rue des Batignolles",
+    "coordinates" : [
+      2.32187190000002,
+      48.8843821
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Bibliothèque Colette Vivier",
+    "id" : "1740",
+    "street" : "6 rue Fourneyron",
+    "coordinates" : [
+      2.31927210000003,
+      48.8898777
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Médiathèque Edmond Rostand",
+    "id" : "1741",
+    "street" : "11 rue Nicolas Chuquet",
+    "coordinates" : [
+      2.30365849999998,
+      48.8887726
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Bibliothèque Clignancourt \/ Robert Sabatier",
+    "id" : "1742",
+    "street" : "29 rue Hermel",
+    "coordinates" : [
+      2.34443529999999,
+      48.8916173
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque Maurice Genevoix",
+    "id" : "1743",
+    "street" : "19 rue Tristan Tzara",
+    "coordinates" : [
+      2.36387639999998,
+      48.8950585
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque Goutte d'Or",
+    "id" : "1744",
+    "street" : "2 rue Fleury",
+    "coordinates" : [
+      2.35412589999999,
+      48.8842937
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque Jacqueline de Romilly \/  Porte Montmartre",
+    "id" : "1745",
+    "street" : "16 avenue de la Porte Montmartre",
+    "coordinates" : [
+      2.33629459999997,
+      48.8991509
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Bibliothèque Place des Fêtes",
+    "id" : "1746",
+    "street" : "18 rue Janssen",
+    "coordinates" : [
+      2.39760219999994,
+      48.879374
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Hergé",
+    "id" : "1747",
+    "street" : "2 rue du Département",
+    "coordinates" : [
+      2.36735829999998,
+      48.8849769
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Fessart",
+    "id" : "1748",
+    "street" : "6 rue Fessart",
+    "coordinates" : [
+      2.38812899999994,
+      48.8762647
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Crimée",
+    "id" : "1749",
+    "street" : "42 rue Petit",
+    "coordinates" : [
+      2.38294189999999,
+      48.8848972
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Couronnes",
+    "id" : "1750",
+    "street" : "66 rue des Couronnes",
+    "coordinates" : [
+      2.38425359999997,
+      48.8701521
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Médiathèque Marguerite Duras",
+    "id" : "1752",
+    "street" : "115 rue de Bagnolet",
+    "coordinates" : [
+      2.40362529999993,
+      48.8599582
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Bibliothèque Sorbier",
+    "id" : "1753",
+    "street" : "17 rue Sorbier",
+    "coordinates" : [
+      2.39165460000004,
+      48.8666133
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Bibliothèque Oscar Wilde",
+    "id" : "1754",
+    "street" : "12 rue du Télégraphe",
+    "coordinates" : [
+      2.39999299999999,
+      48.8719887
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "bibliothèque L'Heure joyeuse",
+    "id" : "2882",
+    "street" : "6-12 rue des Prêtres Saint-Séverin",
+    "coordinates" : [
+      2.34494040000004,
+      48.8518325
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque du cinéma François Truffaut",
+    "id" : "3371",
+    "street" : "4 rue du cinéma (Forum des Halles)",
+    "coordinates" : [
+      2.34585590000006,
+      48.8623474
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Bibliothèque Chaptal",
+    "id" : "6094",
+    "street" : "26, rue Chaptal",
+    "coordinates" : [
+      2.33234049999999,
+      48.881101
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Médiathèque Marguerite Yourcenar",
+    "id" : "6218",
+    "street" : "41, rue d'Alleray",
+    "coordinates" : [
+      2.30342599999994,
+      48.8367682
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Bibliothèque Benjamin Rabier",
+    "id" : "6277",
+    "street" : "141, avenue de Flandre",
+    "coordinates" : [
+      2.3791281,
+      48.8927759
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Claude Lévi-Strauss",
+    "id" : "6280",
+    "street" : "41, avenue de Flandre",
+    "coordinates" : [
+      2.37146039999993,
+      48.8864795
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque Mortier",
+    "id" : "6309",
+    "street" : "109, boulevard Mortier",
+    "coordinates" : [
+      2.40851680000003,
+      48.8712503
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Bibliothèque Louise Michel",
+    "id" : "6320",
+    "street" : "29 \/ 35 rue des Haies",
+    "coordinates" : [
+      2.40146170000003,
+      48.8533782
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "La bibliothèque du musée Galliera",
+    "id" : "6540",
+    "street" : "10, avenue Pierre-1er-de-Serbie",
+    "coordinates" : [
+      2.29638299999999,
+      48.8659696
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Bibliothèque Vaclav Havel",
+    "id" : "8693",
+    "street" : "halle Pajol, rue Pajol",
+    "coordinates" : [
+      2.36247419999995,
+      48.88887
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Médiathèque du Carré Saint-Lazare, en préfiguration",
+    "id" : "8695",
+    "street" : "Hôpital Saint-Lazare, square Alban Satragne",
+    "coordinates" : [
+      2.35375993698733,
+      48.8755135601234
+    ],
+    "zipcode" : "75010"
+  },
+  {
+    "title" : "Bibliothèque de la Canopée",
+    "id" : "16634",
+    "street" : "",
+    "coordinates" : [
+      2.347617922876,
+      48.862468295849
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Bibliothèque Historique de la Ville de Paris (BHVP)",
+    "id" : "16",
+    "street" : "24 rue Pavée",
+    "coordinates" : [
+      2.36168559999999,
+      48.8571475
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Bibliothèque de l'Hôtel de Ville (BHdV)",
+    "id" : "17",
+    "street" : "5 rue Lobau",
+    "coordinates" : [
+      2.35381329999996,
+      48.8569384
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Bibliothèque Forney",
+    "id" : "18",
+    "street" : "1 rue du Figuier",
+    "coordinates" : [
+      2.35936600000002,
+      48.8533772
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Bibliothèque Marguerite Durand (BMD)",
+    "id" : "1756",
+    "street" : "79 rue Nationale",
+    "coordinates" : [
+      2.36650120000002,
+      48.8269976
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Bibliothèque des Archives de Paris",
+    "id" : "2878",
+    "street" : "18 boulevard Sérurier",
+    "coordinates" : [
+      2.405524,
+      48.877907
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Bibliothèque des littératures policières (BiLiPo)",
+    "id" : "2879",
+    "street" : "48 rue Cardinal Lemoine",
+    "coordinates" : [
+      2.3513997,
+      48.8465444
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque du tourisme et des voyages - Germaine Tillion (BTV)",
+    "id" : "2880",
+    "street" : "6 rue du Commandant Schloesing",
+    "coordinates" : [
+      2.2845532,
+      48.8618631
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Centre de documentation sur les métiers du livre (CDML) - bibliothèque Buffon",
+    "id" : "2881",
+    "street" : "15 rue Buffon",
+    "coordinates" : [
+      2.36191170000006,
+      48.8425674
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Médiathèque Musicale de Paris (MMP)",
+    "id" : "2883",
+    "street" : "8 porte Saint-Eustache (Forum des Halles)",
+    "coordinates" : [
+      2.34790910000004,
+      48.8616077
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Bibliothèque du cinéma François Truffaut",
+    "id" : "3371",
+    "street" : "4 rue du cinéma (Forum des Halles)",
+    "coordinates" : [
+      2.34585590000006,
+      48.8623474
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Bibliothèque de la Maison de Balzac",
+    "id" : "3375",
+    "street" : "47 rue Raynouard ",
+    "coordinates" : [
+      2.280752,
+      48.855427
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Bibliothèque des conservatoires de la Ville de Paris (BCVP)",
+    "id" : "3376",
+    "street" : "12 place carrée ",
+    "coordinates" : [
+      2.344948,
+      48.863338
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Centre de documentation du Musée du général Leclerc de Hauteclocque et de la Libération de Paris - Musée Jean Moulin",
+    "id" : "5038",
+    "street" : "23 allée de la 2e db \/ jardin atlantique",
+    "coordinates" : [
+      2.318684,
+      48.839397
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Bibliothèque Du Breuil",
+    "id" : "6335",
+    "street" : "Route de la ferme (Bois de Vincennes)",
+    "coordinates" : [
+      2.45726620000005,
+      48.8235741
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Galerie des bibliothèques",
+    "id" : "6380",
+    "street" : "22, rue Malher",
+    "coordinates" : [
+      2.361397,
+      48.856693
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Bibliothèque Chaligny (bibliothèque sociale)",
+    "id" : "6465",
+    "street" : "15 rue de Chaligny",
+    "coordinates" : [
+      2.38354100000004,
+      48.846514
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Bibliothèque de la maison du jardinage",
+    "id" : "6619",
+    "street" : "41, rue Paul Belmondo",
+    "coordinates" : [
+      2.38246500000002,
+      48.8366
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Bibliothèque de la maison Paris nature",
+    "id" : "6620",
+    "street" : "Parc Floral",
+    "coordinates" : [
+      2.44237119580077,
+      48.8394205971395
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Bibliothèque ESPCI-ParisTech",
+    "id" : "16416",
+    "street" : "10 rue Vauquelin",
+    "coordinates" : [
+      2.3477987,
+      48.8413214
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Ecole Normale Supérieure",
+    "id" : "77",
+    "street" : "45  rue d' ulm",
+    "coordinates" : [
+      2.344117,
+      48.84214
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque universitaire Cujas",
+    "id" : "1575",
+    "street" : "2  rue Cujas",
+    "coordinates" : [
+      2.344989,
+      48.847076
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque universitaire des langues et civilisations (BULAC)",
+    "id" : "1576",
+    "street" : "65 rue des Grands Moulins",
+    "coordinates" : [
+      2.37610960000006,
+      48.8274879
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Bibliothèques universitaires Panthéon Sorbonne",
+    "id" : "1598",
+    "street" : "13  rue de la Sorbonne",
+    "coordinates" : [
+      2.343271,
+      48.84927
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque de l'Université Pierre et Marie Curie (UPMC)",
+    "id" : "1600",
+    "street" : "4 place jussieu",
+    "coordinates" : [
+      2.354913,
+      48.846313
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque d'art et d'archéologie du centre Michelet",
+    "id" : "1601",
+    "street" : "3  rue Michelet",
+    "coordinates" : [
+      2.336068,
+      48.842552
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Bibliothèque interuniversitaire de médecine",
+    "id" : "1603",
+    "street" : "12 rue de l'Ecole de Médecine",
+    "coordinates" : [
+      2.341172,
+      48.850872
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Bibliothèque interuniversitaire de pharmacie",
+    "id" : "1605",
+    "street" : "4  avenue de l'Observatoire",
+    "coordinates" : [
+      2.336399,
+      48.843407
+    ],
+    "zipcode" : "75270"
+  },
+  {
+    "title" : "Bibliothèque universitaire Paris Dauphine",
+    "id" : "1606",
+    "street" : "7 place du Maréchal de Lattre de Tassigny",
+    "coordinates" : [
+      2.274062,
+      48.871567
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Bibliothèque universitaire de l'Ecole du Louvre",
+    "id" : "2901",
+    "street" : "Place du Carrousel ",
+    "coordinates" : [
+      2.334884,
+      48.862396
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Bibliothèques universitaires de l'université Sorbonne Nouvelle",
+    "id" : "2902",
+    "street" : "13 rue de Santeuil",
+    "coordinates" : [
+      2.354273,
+      48.840183
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque générale du Collège de France",
+    "id" : "2903",
+    "street" : "11, place Marcelin Berthelot",
+    "coordinates" : [
+      2.345668,
+      48.849102
+    ],
+    "zipcode" : "75231"
+  },
+  {
+    "title" : "Bibliothèque de Droit International",
+    "id" : "2904",
+    "street" : "12 Place du Panthéon",
+    "coordinates" : [
+      2.34571,
+      48.848522
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque Sainte Geneviève",
+    "id" : "2905",
+    "street" : "10 place du Panthéon ",
+    "coordinates" : [
+      2.345598,
+      48.846897
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèques universitaires Panthéon-Assas",
+    "id" : "2906",
+    "street" : "92 rue d'Assas",
+    "coordinates" : [
+      2.331805,
+      48.842491
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Bibliothèque de la Cité Internationale Universitaire de Paris",
+    "id" : "2907",
+    "street" : "17 boulevard Jourdan",
+    "coordinates" : [
+      2.33855819999997,
+      48.8201083
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "title" : "Bibliothèque d'Archéologie et des Sciences de l'Antiquité, Maison René-Ginouvès",
+    "id" : "2908",
+    "street" : "21 Allée de l'Université",
+    "coordinates" : [
+      2.212238,
+      48.903919
+    ],
+    "zipcode" : "92"
+  },
+  {
+    "title" : "Bibliothèque de l'Université Paris 8",
+    "id" : "6423",
+    "street" : "2 rue de la Liberté",
+    "coordinates" : [
+      2.364097,
+      48.945049
+    ],
+    "zipcode" : "93"
+  },
+  {
+    "title" : "Bibliothèques de l'Ecole pratique des hautes études",
+    "id" : "6424",
+    "street" : "46, rue de Lille",
+    "coordinates" : [
+      2.329399,
+      48.858665
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Bibliothèque interuniversitaire Sainte-Barbe",
+    "id" : "6427",
+    "street" : "4, rue Valette",
+    "coordinates" : [
+      2.346752,
+      48.847462
+    ],
+    "zipcode" : "75005"
+  },
+  {
+    "title" : "Bibliothèque ESPCI-ParisTech",
+    "id" : "16416",
+    "street" : "10 rue Vauquelin",
+    "coordinates" : [
+      2.3477987,
+      48.8413214
+    ],
+    "zipcode" : "75005"
+  }
+]

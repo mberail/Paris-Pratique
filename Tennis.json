@@ -1,0 +1,422 @@
+[
+  {
+    "title" : "Tennis Neuve Saint-Pierre",
+    "id" : "2961",
+    "street" : "5 rue Neuve Saint-Pierre ",
+    "coordinates" : [
+      2.363015,
+      48.853428
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Tennis du Luxembourg",
+    "id" : "2962",
+    "street" : "3 rue Guynemer ",
+    "coordinates" : [
+      2.33431,
+      48.847332
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Tennis Candie",
+    "id" : "2963",
+    "street" : "11 Rue de Candie ",
+    "coordinates" : [
+      2.379674,
+      48.851395
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "title" : "Tennis La Faluère",
+    "id" : "2964",
+    "street" : "113 Route de la Pyramide        ",
+    "coordinates" : [
+      2.450393,
+      48.830067
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Tennis Paul Valéry",
+    "id" : "2965",
+    "street" : "15 Rue de la Nouvelle-Calédonie ",
+    "coordinates" : [
+      2.410325,
+      48.837959
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Tennis Georges Carpentier",
+    "id" : "2966",
+    "street" : "81 Boulevard Masséna ",
+    "coordinates" : [
+      2.366817,
+      48.820801
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Tennis Moureu Baudricourt",
+    "id" : "2967",
+    "street" : "17 Avenue Edison ",
+    "coordinates" : [
+      2.364578,
+      48.82777
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Tennis Château des Rentiers",
+    "id" : "2968",
+    "street" : "184 Rue du château des Rentiers ",
+    "coordinates" : [
+      2.3619,
+      48.830406
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Tennis Cordelières",
+    "id" : "2969",
+    "street" : "35 Rue des Cordelières ",
+    "coordinates" : [
+      2.348546,
+      48.833435
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Tennis Dunois",
+    "id" : "2970",
+    "street" : "70 Rue Dunois",
+    "coordinates" : [
+      2.366424,
+      48.833035
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Tennis de la Poterne des Peupliers",
+    "id" : "2971",
+    "street" : "1 Rue Max Jacob ",
+    "coordinates" : [
+      2.354112,
+      48.820278
+    ],
+    "zipcode" : "75013"
+  },
+  {
+    "title" : "Tennis Elisabeth",
+    "id" : "2972",
+    "street" : "7 Avenue Paul Appell ",
+    "coordinates" : [
+      2.328693,
+      48.821259
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "title" : "Tennis Croix Nivert",
+    "id" : "2974",
+    "street" : "107 Rue de la Croix-Nivert ",
+    "coordinates" : [
+      2.294471,
+      48.842491
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Tennis Charles Rigoulot",
+    "id" : "2975",
+    "street" : "18 Avenue de la porte de Brancion ",
+    "coordinates" : [
+      2.300751,
+      48.826874
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Tennis de la Plaine",
+    "id" : "2976",
+    "street" : "13 Rue du Général Guillaumat ",
+    "coordinates" : [
+      2.292976,
+      48.827991
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Tennis André et René Mourlon",
+    "id" : "2977",
+    "street" : "19 Rue Gaston de Caillavet ",
+    "coordinates" : [
+      2.284738,
+      48.848873
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Tennis Sablonnière",
+    "id" : "2978",
+    "street" : "62 Rue Cambronne ",
+    "coordinates" : [
+      2.302382,
+      48.843792
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Tennis Suzanne Lenglen",
+    "id" : "2979",
+    "street" : "2 rue Louis Armand ",
+    "coordinates" : [
+      2.277919,
+      48.833035
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Tennis Henry de Montherlant",
+    "id" : "2980",
+    "street" : "30 Boulevard Lannes ",
+    "coordinates" : [
+      2.272296,
+      48.867447
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Tennis Niox",
+    "id" : "2981",
+    "street" : "16 Quai Saint Exupéry ",
+    "coordinates" : [
+      2.262558,
+      48.835205
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Tennis Aurelles de Paladines",
+    "id" : "2982",
+    "street" : "17 Boulevard d\\'Aurelle de Paladines ",
+    "coordinates" : [
+      2.28226,
+      48.883156
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Tennis Courcelles",
+    "id" : "2983",
+    "street" : "209, rue de Courcelles ",
+    "coordinates" : [
+      2.294193,
+      48.888103
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Tennis de la Porte d'Asnières",
+    "id" : "2984",
+    "street" : "1 Boulevard de Reims ",
+    "coordinates" : [
+      2.301573,
+      48.891743
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Tennis Max Rousié",
+    "id" : "2985",
+    "street" : "28 Rue André Brechet ",
+    "coordinates" : [
+      2.325513,
+      48.898933
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Tennis Reims",
+    "id" : "2986",
+    "street" : "224 Rue de Courcelles ",
+    "coordinates" : [
+      2.293859,
+      48.888439
+    ],
+    "zipcode" : "75017"
+  },
+  {
+    "title" : "Tennis Bertrand Dauvin",
+    "id" : "2987",
+    "street" : "12 Rue René Binet ",
+    "coordinates" : [
+      2.342513,
+      48.899296
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Tennis Championnet",
+    "id" : "2988",
+    "street" : "172 Rue Championnet ",
+    "coordinates" : [
+      2.334783,
+      48.894657
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Tennis des Poissonniers",
+    "id" : "2989",
+    "street" : "2 Rue Jean Cocteau ",
+    "coordinates" : [
+      2.351621,
+      48.89962
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Tennis Jandelle",
+    "id" : "2990",
+    "street" : "15 Cité Jandelle ",
+    "coordinates" : [
+      2.380203,
+      48.875404
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Tennis Jules Ladoumègue",
+    "id" : "2991",
+    "street" : "1 Avenue de la porte de Pantin ",
+    "coordinates" : [
+      2.397263,
+      48.889606
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Tennis Edouard Pailleron",
+    "id" : "2992",
+    "street" : "22 Rue Edouard Pailleron ",
+    "coordinates" : [
+      2.377449,
+      48.880882
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Tennis Sept Arpents",
+    "id" : "2993",
+    "street" : "9, rue des Sept Arpents ",
+    "coordinates" : [
+      2.398822,
+      48.889542
+    ],
+    "zipcode" : "75019"
+  },
+  {
+    "title" : "Tennis Davout",
+    "id" : "2994",
+    "street" : "134 boulevard Davout ",
+    "coordinates" : [
+      2.409312,
+      48.86097
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Tennis Louis Lumière",
+    "id" : "2995",
+    "street" : "30 Rue Louis Lumière ",
+    "coordinates" : [
+      2.411531,
+      48.858906
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Tennis Les Amandiers",
+    "id" : "2996",
+    "street" : "21 Rue des Cendriers ",
+    "coordinates" : [
+      2.386455,
+      48.86549
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Tennis de la Porte de Bagnolet",
+    "id" : "2997",
+    "street" : "72 Rue Louis Lumière ",
+    "coordinates" : [
+      2.410989,
+      48.862213
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Tennis Docteurs Déjerine",
+    "id" : "2998",
+    "street" : "32 Rue des docteurs Dejerine ",
+    "coordinates" : [
+      2.411479,
+      48.857147
+    ],
+    "zipcode" : "75020"
+  },
+  {
+    "title" : "Tennis Carnot",
+    "id" : "3318",
+    "street" : "26 boulevard Carnot ",
+    "coordinates" : [
+      2.413015,
+      48.842991
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Tennis Fonds des Princes",
+    "id" : "3319",
+    "street" : "61, Avenue de la Porte d’Auteuil",
+    "coordinates" : [
+      2.25453659999994,
+      48.8479389
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Tennis Léo Lagrange",
+    "id" : "3321",
+    "street" : "68, boulevard Poniatowski ",
+    "coordinates" : [
+      2.401572,
+      48.833179
+    ],
+    "zipcode" : "75012"
+  },
+  {
+    "title" : "Tennis de l'Atlantique",
+    "id" : "3372",
+    "street" : "25 allee du Capitaine Dronne ",
+    "coordinates" : [
+      2.318909,
+      48.840546
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Tennis Poliveau",
+    "id" : "3664",
+    "street" : "39 rue Poliveau",
+    "coordinates" : [
+      2.35747,
+      48.839882
+    ],
+    "zipcode" : "75005"
+  }
+]

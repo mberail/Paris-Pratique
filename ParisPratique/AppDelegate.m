@@ -12,7 +12,15 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+    UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"MainStoryboard" bundle:nil];
+    UIViewController *vc = [storyboard instantiateViewControllerWithIdentifier:@"IconsViewController"];
+    UINavigationController *nvc = [[UINavigationController alloc] initWithRootViewController:vc];
+    nvc.navigationBar.translucent = NO;
+    self.window.rootViewController = nvc;
+    NSUserDefaults *pref = [NSUserDefaults standardUserDefaults];
+    if (![pref objectForKey:@"plans"])
+        [pref setObject:@"1" forKey:@"plans"];
+    [TestFlight takeOff:@"53f3d019-7795-4f8f-a8d1-55255cc071f2"];
     return YES;
 }
 							

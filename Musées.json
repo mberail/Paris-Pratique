@@ -1,0 +1,332 @@
+[
+  {
+    "title" : "Bibliothèque polonaise",
+    "id" : "14",
+    "street" : "6  quai d'orleans",
+    "coordinates" : [
+      2.35566,
+      48.851227
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Maison Européenne de la Photographie",
+    "id" : "53",
+    "street" : " 5 rue de fourcy",
+    "coordinates" : [
+      2.359157,
+      48.854885
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Musée de la Curiosité et de la Magie",
+    "id" : "58",
+    "street" : "11 rue saint paul ",
+    "coordinates" : [
+      2.361244,
+      48.853115
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Mémorial de la Shoah",
+    "id" : "1208",
+    "street" : "17 rue Geoffroy L'Asnier",
+    "coordinates" : [
+      2.356412,
+      48.854828
+    ],
+    "zipcode" : "75004"
+  },
+  {
+    "title" : "Musée Dapper",
+    "id" : "1468",
+    "street" : "35 bie, rue Paul Valéry",
+    "coordinates" : [
+      2.288257,
+      48.871601
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Musée Bible et Terre Sainte",
+    "id" : "1469",
+    "street" : "21 rue d\\'Assas",
+    "coordinates" : [
+      2.329573,
+      48.848007
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Musée de l'érotisme",
+    "id" : "1471",
+    "street" : "72 boulevard de Clichy",
+    "coordinates" : [
+      2.33378160000007,
+      48.8836283
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Espace Dali",
+    "id" : "1472",
+    "street" : "11 rue Poulbot  ",
+    "coordinates" : [
+      2.33982,
+      48.886562
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Musée de l'éventail",
+    "id" : "1473",
+    "street" : "2 boulevard de Strasbourg",
+    "coordinates" : [
+      2.35427149999998,
+      48.8693274
+    ],
+    "zipcode" : "75010"
+  },
+  {
+    "title" : "Musée d'Histoire de la médecine",
+    "id" : "1474",
+    "street" : "12 rue de l\\'Ecole de Médecine ",
+    "coordinates" : [
+      2.341567,
+      48.850758
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Musée Pasteur",
+    "id" : "1475",
+    "street" : "25 rue du Docteur Roux ",
+    "coordinates" : [
+      2.310735,
+      48.840374
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Musée de la chasse et de la nature",
+    "id" : "1476",
+    "street" : "62 rue des Archives",
+    "coordinates" : [
+      2.35834890000001,
+      48.8612474
+    ],
+    "zipcode" : "75003"
+  },
+  {
+    "title" : "Musée de la contrefaçon",
+    "id" : "1479",
+    "street" : "16 rue de la Faisanderie ",
+    "coordinates" : [
+      2.276816,
+      48.87009
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Fondation Le Corbusier",
+    "id" : "1482",
+    "street" : " 8 square du Docteur Blanche ",
+    "coordinates" : [
+      2.264484,
+      48.852509
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Musée de la Franc-Maçonnerie",
+    "id" : "1483",
+    "street" : "16 rue Cadet ",
+    "coordinates" : [
+      2.34299,
+      48.87495
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "L'adresse - musée de la Poste",
+    "id" : "1488",
+    "street" : "21 avenue du Maine",
+    "coordinates" : [
+      2.32032479999998,
+      48.8435327
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Musée de la Minéralogie de l'Ecole des Mines",
+    "id" : "1491",
+    "street" : "60 boulevard Saint Michel ",
+    "coordinates" : [
+      2.339806,
+      48.845486
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Les Arts Décoratifs",
+    "id" : "1494",
+    "street" : " 107 rue de Rivoli  ",
+    "coordinates" : [
+      2.333598,
+      48.863266
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Musée d'art et d'histoire du judaïsme",
+    "id" : "1500",
+    "street" : "71 rue du Temple",
+    "coordinates" : [
+      2.35564,
+      48.86095
+    ],
+    "zipcode" : "75003"
+  },
+  {
+    "title" : "Musée du vin",
+    "id" : "1502",
+    "street" : "Rue des Eaux",
+    "coordinates" : [
+      2.285531,
+      48.856956
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Musée Edith Piaf",
+    "id" : "1503",
+    "street" : "5 rue Crespin du Gast ",
+    "coordinates" : [
+      2.381622,
+      48.866161
+    ],
+    "zipcode" : "75011"
+  },
+  {
+    "title" : "Musée Grévin",
+    "id" : "1507",
+    "street" : "10 boulevard Montmartre ",
+    "coordinates" : [
+      2.342003,
+      48.871647
+    ],
+    "zipcode" : "75009"
+  },
+  {
+    "title" : "Musée-librairie du compagnonnage",
+    "id" : "1508",
+    "street" : "10 rue Mabillon ",
+    "coordinates" : [
+      2.335201,
+      48.852261
+    ],
+    "zipcode" : "75006"
+  },
+  {
+    "title" : "Fondation Dina Vierny - Musée Maillol",
+    "id" : "1509",
+    "street" : "61 Rue de Grenelle ",
+    "coordinates" : [
+      2.329704,
+      48.852478
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Musée Marmottan Monet",
+    "id" : "1511",
+    "street" : " 2 rue Louis Boilly ",
+    "coordinates" : [
+      2.267152,
+      48.859169
+    ],
+    "zipcode" : "75016"
+  },
+  {
+    "title" : "Musée Nissim de Camondo",
+    "id" : "1513",
+    "street" : "63 rue de Monceau ",
+    "coordinates" : [
+      2.312881,
+      48.878792
+    ],
+    "zipcode" : "75008"
+  },
+  {
+    "title" : "Halle Saint-Pierre",
+    "id" : "6338",
+    "street" : "2, rue Ronsard",
+    "coordinates" : [
+      2.344242,
+      48.88512
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Musée du Montparnasse",
+    "id" : "6382",
+    "street" : "21 avenue du Maine",
+    "coordinates" : [
+      2.32064,
+      48.843235
+    ],
+    "zipcode" : "75015"
+  },
+  {
+    "title" : "Musée des lettres et manuscrits",
+    "id" : "6387",
+    "street" : "222 boulevard Saint-Germain",
+    "coordinates" : [
+      2.327653,
+      48.855392
+    ],
+    "zipcode" : "75007"
+  },
+  {
+    "title" : "Fondation Henri Cartier-Bresson",
+    "id" : "6389",
+    "street" : "2 impasse Lebouis",
+    "coordinates" : [
+      2.321885,
+      48.836746
+    ],
+    "zipcode" : "75014"
+  },
+  {
+    "title" : "Musée de Montmartre",
+    "id" : "6458",
+    "street" : "12, rue Cortot",
+    "coordinates" : [
+      2.34057689999997,
+      48.8877021
+    ],
+    "zipcode" : "75018"
+  },
+  {
+    "title" : "Musée en herbe",
+    "id" : "6584",
+    "street" : "21, rue Herold",
+    "coordinates" : [
+      2.34186249999993,
+      48.8651054
+    ],
+    "zipcode" : "75001"
+  },
+  {
+    "title" : "Musée de l'Assistance publique - Hôpitaux de Paris",
+    "id" : "8653",
+    "street" : "47, quai de la Tournelle",
+    "coordinates" : [
+      2.35222999999996,
+      48.850678
+    ],
+    "zipcode" : "75005"
+  }
+]
